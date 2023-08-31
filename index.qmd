@@ -2,8 +2,6 @@
 
 This is a book created from markdown and executable code.
 
-See @knuth84 for additional discussion of literate programming.
-
 ---
 abstract: |
   Upon analysis of the Certified County Recorder Tabulations of both
@@ -4877,8 +4875,6 @@ against Invasion; and on Application of the Legislature, or of the
 Executive (when the Legislature cannot be convened) against domestic
 Violence.*
 
-Without fair elections, we no longer have a Republican Form of
-Government. God Bless America.
 
 
 
