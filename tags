@@ -8769,6 +8769,7 @@ $t	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==t
 0	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	array:formats.html.metadata.bibliography
 0	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	array:formats.pdf.metadata.author
 0	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	array:formats.pdf.metadata.bibliography
+0	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	array:markdown.yaml.author
 0	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	array:projectFormats
 0	_book/search.json	/^  {$/;"	o
 0	docs/search.json	/^  {$/;"	o
@@ -8776,7 +8777,16 @@ $t	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==t
 1	_book/search.json	/^  {$/;"	o
 1	docs/search.json	/^  {$/;"	o
 1 Introduction	_book/index.html	/^<h1 data-number="1"><span class="header-section-number">1<\/span> Introduction<\/h1>$/;"	h
-1 Introduction	docs/index.html	/^<h1 data-number="1"><span class="header-section-number">1<\/span> Introduction<\/h1>$/;"	h
+1 Introduction: Nevada State Law and Data Sources	docs/index.html	/^<h1 data-number="1"><span class="header-section-number">1<\/span> Introduction: Nevada State Law/;"	h
+1.1 Nevada State Law; Ballots are Not Counted In Precincts	docs/index.html	/^<h2 data-number="1.1" class="anchored" data-anchor-id="nevada-state-law-ballots-are-not-counted-/;"	i
+1.2 Legal Definition of a Ballot in Nevada	docs/index.html	/^<h2 data-number="1.2" class="anchored" data-anchor-id="legal-definition-of-a-ballot-in-nevada"></;"	i
+1.3 The Legal Futility of Public Observation	docs/index.html	/^<h2 data-number="1.3" class="anchored" data-anchor-id="the-legal-futility-of-public-observation"/;"	i
+1.4 Votes are Computed By Law, Not Counted	docs/index.html	/^<h2 data-number="1.4" class="anchored" data-anchor-id="votes-are-computed-by-law-not-counted"><s/;"	i
+1.5 Recounts only rerun the electronic tape from the election through the same machine	docs/index.html	/^<h2 data-number="1.5" class="anchored" data-anchor-id="recounts-only-rerun-the-electronic-tape-f/;"	i
+1.6 Additional Law and Code Relevant to this Article	docs/index.html	/^<h2 data-number="1.6" class="anchored" data-anchor-id="additional-law-and-code-relevant-to-this-/;"	i
+1.7 No one knows where the physical paper ballots are located in Washoe County; Exhibit of County Commissioner Jeanne Herman’s Legal Affidavit	docs/index.html	/^<h2 data-number="1.7" class="anchored" data-anchor-id="no-one-knows-where-the-physical-paper-bal/;"	i
+1.8 Clark County 2020 and 2022 Tabulation Sources	docs/index.html	/^<h2 data-number="1.8" class="anchored" data-anchor-id="clark-county-2020-and-2022-tabulation-sou/;"	i
+1.9 Washoe County 2020 and 2022 Tabulation Sources	docs/index.html	/^<h2 data-number="1.9" class="anchored" data-anchor-id="washoe-county-2020-and-2022-tabulation-so/;"	i
 10	_book/search.json	/^  {$/;"	o
 10	docs/search.json	/^  {$/;"	o
 11	_book/search.json	/^  {$/;"	o
@@ -8800,29 +8810,44 @@ $t	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==t
 2	_book/search.json	/^  {$/;"	o
 2	docs/search.json	/^  {$/;"	o
 2 Introduction: Nevada State Law and Data Sources	_book/index.html	/^<h1 data-number="2"><span class="header-section-number">2<\/span> Introduction: Nevada State Law/;"	h
-2 Introduction: Nevada State Law and Data Sources	docs/index.html	/^<h1 data-number="2"><span class="header-section-number">2<\/span> Introduction: Nevada State Law/;"	h
+2 The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets	docs/index.html	/^<h1 data-number="2"><span class="header-section-number">2<\/span> The Twenty Laws and Forty Isom/;"	h
 2.1 Nevada State Law; Ballots are Not Counted In Precincts	_book/index.html	/^<h2 data-number="2.1" class="anchored" data-anchor-id="nevada-state-law-ballots-are-not-counted-/;"	i
-2.1 Nevada State Law; Ballots are Not Counted In Precincts	docs/index.html	/^<h2 data-number="2.1" class="anchored" data-anchor-id="nevada-state-law-ballots-are-not-counted-/;"	i
+2.1 The Ratios Between the of Cardinalities Four Pairwise Disjoint Sets	docs/index.html	/^<h2 data-number="2.1" class="anchored" data-anchor-id="the-ratios-between-the-of-cardinalities-f/;"	i
+2.10 The Two Common Sense Assumptions	docs/index.html	/^<h2 data-number="2.10" class="anchored" data-anchor-id="the-two-common-sense-assumptions"><span /;"	i
+2.11 Bard and ChatGPT’s Verdict on the Two Common Sense Assumptions	docs/index.html	/^<h2 data-number="2.11" class="anchored" data-anchor-id="bard-and-chatgpts-verdict-on-the-two-com/;"	i
+2.12 How the Clark, Washoe and Atlanta (GA) election Defy the Common Sense Assumption	docs/index.html	/^<h2 data-number="2.12" class="anchored" data-anchor-id="how-the-clark-washoe-and-atlanta-ga-elec/;"	i
+2.13 The Geometric Absurdity of Constant Lambda; Why the Defense Cannot Assert that Constant Lambda is not unusual in a Safe and Secure Election; And Why Lambda is Called the “Obstacle Percentage"	docs/index.html	/^<h2 data-number="2.13" class="anchored" data-anchor-id="the-geometric-absurdity-of-constant-lamb/;"	i
+2.14 The Eight Problems of the 2020 Election of Trump vs Biden in Clark and Washoe Counties	docs/index.html	/^<h2 data-number="2.14" class="anchored" data-anchor-id="the-eight-problems-of-the-2020-election-/;"	i
+2.15 What is the Trajectory of Lambda in Fair Election? No Basis for Democrats Preferring To Vote by Mail	docs/index.html	/^<h2 data-number="2.15" class="anchored" data-anchor-id="what-is-the-trajectory-of-lambda-in-fair/;"	i
+2.16 2004 General Election of Bush vs Kerry, 2004, Fair Election, Clark and Washoe, X=Y and M=N !!!	docs/index.html	/^<h2 data-number="2.16" class="anchored" data-anchor-id="general-election-of-bush-vs-kerry-2004-f/;"	i
+2.17 The Fair Election of 2008, Obama vs McCain, M Parallel to N	docs/index.html	/^<h2 data-number="2.17" class="anchored" data-anchor-id="the-fair-election-of-2008-obama-vs-mccai/;"	i
+2.18 The Fair Election of 2012, Obama vs Romney, X=Y and M=N	docs/index.html	/^<h2 data-number="2.18" class="anchored" data-anchor-id="the-fair-election-of-2012-obama-vs-romne/;"	i
+2.19 The Fair Election of 2016, Trump vs Hillary, X=Y and M=N	docs/index.html	/^<h2 data-number="2.19" class="anchored" data-anchor-id="the-fair-election-of-2016-trump-vs-hilla/;"	i
 2.2 Legal Definition of a Ballot in Nevada	_book/index.html	/^<h2 data-number="2.2" class="anchored" data-anchor-id="legal-definition-of-a-ballot-in-nevada"></;"	i
-2.2 Legal Definition of a Ballot in Nevada	docs/index.html	/^<h2 data-number="2.2" class="anchored" data-anchor-id="legal-definition-of-a-ballot-in-nevada"></;"	i
+2.2 The Twenty Laws and Forty Isometries	docs/index.html	/^<h2 data-number="2.2" class="anchored" data-anchor-id="the-twenty-laws-and-forty-isometries"><sp/;"	i
+2.20 Brief Introduction to Complex Number Percentages and Manifolds for Two Simultaneous Races	docs/index.html	/^<h2 data-number="2.20" class="anchored" data-anchor-id="brief-introduction-to-complex-number-per/;"	i
+2.21 The G,H,Alpha Complex Number Manifold That Rigged Trump/Amodei vs Biden/Ackermann in Washoe County	docs/index.html	/^<h2 data-number="2.21" class="anchored" data-anchor-id="the-ghalpha-complex-number-manifold-that/;"	i
+2.22 Brief Introduction to Quaternionic Percentages and Manifolds for Four Simultaneous Races	docs/index.html	/^<h2 data-number="2.22" class="anchored" data-anchor-id="brief-introduction-to-quaternionic-perce/;"	i
+2.23 The Quaternionic Manifold of the Nevada 2022 General Election that allowed Lombardo to win while making the other Republicans lose.	docs/index.html	/^<h2 data-number="2.23" class="anchored" data-anchor-id="the-quaternionic-manifold-of-the-nevada-/;"	i
+2.3 The Importance of the Twenty Laws and Forty Isometries	docs/index.html	/^<h2 data-number="2.3" class="anchored" data-anchor-id="the-importance-of-the-twenty-laws-and-for/;"	i
 2.3 The Legal Futility of Public Observation	_book/index.html	/^<h2 data-number="2.3" class="anchored" data-anchor-id="the-legal-futility-of-public-observation"/;"	i
-2.3 The Legal Futility of Public Observation	docs/index.html	/^<h2 data-number="2.3" class="anchored" data-anchor-id="the-legal-futility-of-public-observation"/;"	i
+2.4 The Need for the Convergence, Constraint and Irrelevance Lemmas	docs/index.html	/^<h2 data-number="2.4" class="anchored" data-anchor-id="the-need-for-the-convergence-constraint-a/;"	i
 2.4 Votes are Computed By Law, Not Counted	_book/index.html	/^<h2 data-number="2.4" class="anchored" data-anchor-id="votes-are-computed-by-law-not-counted"><s/;"	i
-2.4 Votes are Computed By Law, Not Counted	docs/index.html	/^<h2 data-number="2.4" class="anchored" data-anchor-id="votes-are-computed-by-law-not-counted"><s/;"	i
 2.5 Recounts only rerun the electronic tape from the election through the same machine	_book/index.html	/^<h2 data-number="2.5" class="anchored" data-anchor-id="recounts-only-rerun-the-electronic-tape-f/;"	i
-2.5 Recounts only rerun the electronic tape from the election through the same machine	docs/index.html	/^<h2 data-number="2.5" class="anchored" data-anchor-id="recounts-only-rerun-the-electronic-tape-f/;"	i
+2.5 Tabulation Array; Data Set Definitions 1	docs/index.html	/^<h2 data-number="2.5" class="anchored" data-anchor-id="tabulation-array-data-set-definitions-1">/;"	i
 2.6 Additional Law and Code Relevant to this Article	_book/index.html	/^<h2 data-number="2.6" class="anchored" data-anchor-id="additional-law-and-code-relevant-to-this-/;"	i
-2.6 Additional Law and Code Relevant to this Article	docs/index.html	/^<h2 data-number="2.6" class="anchored" data-anchor-id="additional-law-and-code-relevant-to-this-/;"	i
+2.6 Counting Group; S,T,U,V and Quantile Arrays; Data Set Definitions 2	docs/index.html	/^<h2 data-number="2.6" class="anchored" data-anchor-id="counting-group-stuv-and-quantile-arrays-d/;"	i
 2.7 No one knows where the physical paper ballots are located in Washoe County; Exhibit of County Commissioner Jeanne Herman’s Legal Affidavit	_book/index.html	/^<h2 data-number="2.7" class="anchored" data-anchor-id="no-one-knows-where-the-physical-paper-bal/;"	i
-2.7 No one knows where the physical paper ballots are located in Washoe County; Exhibit of County Commissioner Jeanne Herman’s Legal Affidavit	docs/index.html	/^<h2 data-number="2.7" class="anchored" data-anchor-id="no-one-knows-where-the-physical-paper-bal/;"	i
+2.7 Ordinal, Percentage and Quantile Functions of an STUV Array	docs/index.html	/^<h2 data-number="2.7" class="anchored" data-anchor-id="ordinal-percentage-and-quantile-functions/;"	i
 2.8 Clark County 2020 and 2022 Tabulation Sources	_book/index.html	/^<h2 data-number="2.8" class="anchored" data-anchor-id="clark-county-2020-and-2022-tabulation-sou/;"	i
-2.8 Clark County 2020 and 2022 Tabulation Sources	docs/index.html	/^<h2 data-number="2.8" class="anchored" data-anchor-id="clark-county-2020-and-2022-tabulation-sou/;"	i
+2.8 Convergence, Constraint and Irrelevance Lemmas	docs/index.html	/^<h2 data-number="2.8" class="anchored" data-anchor-id="convergence-constraint-and-irrelevance-le/;"	i
+2.9 The Hyperbolic Reflection Theorem	docs/index.html	/^<h2 data-number="2.9" class="anchored" data-anchor-id="the-hyperbolic-reflection-theorem"><span /;"	i
 2.9 Washoe County 2020 and 2022 Tabulation Sources	_book/index.html	/^<h2 data-number="2.9" class="anchored" data-anchor-id="washoe-county-2020-and-2022-tabulation-so/;"	i
-2.9 Washoe County 2020 and 2022 Tabulation Sources	docs/index.html	/^<h2 data-number="2.9" class="anchored" data-anchor-id="washoe-county-2020-and-2022-tabulation-so/;"	i
 20	_book/search.json	/^  {$/;"	o
 20	docs/search.json	/^  {$/;"	o
 2004 General Election of Bush vs Kerry, 2004, Fair Election, Clark and Washoe, X=Y and M=N !!!	Core.tex	/^\\subsection{2004 General Election of Bush vs Kerry, 2004, Fair Election, Clark and Washoe, X=Y /;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 2004 General Election of Bush vs Kerry, 2004, Fair Election, Clark and Washoe, X=Y and M=N !!!	abc.md	/^## 2004 General Election of Bush vs Kerry, 2004, Fair Election, Clark and Washoe, X=Y and M=N !!/;"	s	chapter:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
+2004 General Election of Bush vs Kerry, 2004, Fair Election, Clark and Washoe, X=Y and M=N !!!	import/Clark and Washoe Counties, Chapter One, 2020 and 2022/000Main.tex	/^\\subsection{2004 General Election of Bush vs Kerry, 2004, Fair Election, Clark and Washoe, X=Y /;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 21	_book/search.json	/^  {$/;"	o
 21	docs/search.json	/^  {$/;"	o
 22	_book/search.json	/^  {$/;"	o
@@ -8844,53 +8869,29 @@ $t	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==t
 3	_book/search.json	/^  {$/;"	o
 3	docs/search.json	/^  {$/;"	o
 3 The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets	_book/index.html	/^<h1 data-number="3"><span class="header-section-number">3<\/span> The Twenty Laws and Forty Isom/;"	h
-3 The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets	docs/index.html	/^<h1 data-number="3"><span class="header-section-number">3<\/span> The Twenty Laws and Forty Isom/;"	h
 3.1 The Ratios Between the of Cardinalities Four Pairwise Disjoint Sets	_book/index.html	/^<h2 data-number="3.1" class="anchored" data-anchor-id="the-ratios-between-the-of-cardinalities-f/;"	i
-3.1 The Ratios Between the of Cardinalities Four Pairwise Disjoint Sets	docs/index.html	/^<h2 data-number="3.1" class="anchored" data-anchor-id="the-ratios-between-the-of-cardinalities-f/;"	i
 3.10 The Two Common Sense Assumptions	_book/index.html	/^<h2 data-number="3.10" class="anchored" data-anchor-id="the-two-common-sense-assumptions"><span /;"	i
-3.10 The Two Common Sense Assumptions	docs/index.html	/^<h2 data-number="3.10" class="anchored" data-anchor-id="the-two-common-sense-assumptions"><span /;"	i
 3.11 Bard and ChatGPT’s Verdict on the Two Common Sense Assumptions	_book/index.html	/^<h2 data-number="3.11" class="anchored" data-anchor-id="bard-and-chatgpts-verdict-on-the-two-com/;"	i
-3.11 Bard and ChatGPT’s Verdict on the Two Common Sense Assumptions	docs/index.html	/^<h2 data-number="3.11" class="anchored" data-anchor-id="bard-and-chatgpts-verdict-on-the-two-com/;"	i
 3.12 How the Clark, Washoe and Atlanta (GA) election Defy the Common Sense Assumption	_book/index.html	/^<h2 data-number="3.12" class="anchored" data-anchor-id="how-the-clark-washoe-and-atlanta-ga-elec/;"	i
-3.12 How the Clark, Washoe and Atlanta (GA) election Defy the Common Sense Assumption	docs/index.html	/^<h2 data-number="3.12" class="anchored" data-anchor-id="how-the-clark-washoe-and-atlanta-ga-elec/;"	i
 3.13 The Geometric Absurdity of Constant Lambda; Why the Defense Cannot Assert that Constant Lambda is not unusual in a Safe and Secure Election; And Why Lambda is Called the “Obstacle Percentage"	_book/index.html	/^<h2 data-number="3.13" class="anchored" data-anchor-id="the-geometric-absurdity-of-constant-lamb/;"	i
-3.13 The Geometric Absurdity of Constant Lambda; Why the Defense Cannot Assert that Constant Lambda is not unusual in a Safe and Secure Election; And Why Lambda is Called the “Obstacle Percentage"	docs/index.html	/^<h2 data-number="3.13" class="anchored" data-anchor-id="the-geometric-absurdity-of-constant-lamb/;"	i
 3.14 The Eight Problems of the 2020 Election of Trump vs Biden in Clark and Washoe Counties	_book/index.html	/^<h2 data-number="3.14" class="anchored" data-anchor-id="the-eight-problems-of-the-2020-election-/;"	i
-3.14 The Eight Problems of the 2020 Election of Trump vs Biden in Clark and Washoe Counties	docs/index.html	/^<h2 data-number="3.14" class="anchored" data-anchor-id="the-eight-problems-of-the-2020-election-/;"	i
 3.15 What is the Trajectory of Lambda in Fair Election? No Basis for Democrats Preferring To Vote by Mail	_book/index.html	/^<h2 data-number="3.15" class="anchored" data-anchor-id="what-is-the-trajectory-of-lambda-in-fair/;"	i
-3.15 What is the Trajectory of Lambda in Fair Election? No Basis for Democrats Preferring To Vote by Mail	docs/index.html	/^<h2 data-number="3.15" class="anchored" data-anchor-id="what-is-the-trajectory-of-lambda-in-fair/;"	i
 3.16 2004 General Election of Bush vs Kerry, 2004, Fair Election, Clark and Washoe, X=Y and M=N !!!	_book/index.html	/^<h2 data-number="3.16" class="anchored" data-anchor-id="general-election-of-bush-vs-kerry-2004-f/;"	i
-3.16 2004 General Election of Bush vs Kerry, 2004, Fair Election, Clark and Washoe, X=Y and M=N !!!	docs/index.html	/^<h2 data-number="3.16" class="anchored" data-anchor-id="general-election-of-bush-vs-kerry-2004-f/;"	i
 3.17 The Fair Election of 2008, Obama vs McCain, M Parallel to N	_book/index.html	/^<h2 data-number="3.17" class="anchored" data-anchor-id="the-fair-election-of-2008-obama-vs-mccai/;"	i
-3.17 The Fair Election of 2008, Obama vs McCain, M Parallel to N	docs/index.html	/^<h2 data-number="3.17" class="anchored" data-anchor-id="the-fair-election-of-2008-obama-vs-mccai/;"	i
 3.18 The Fair Election of 2012, Obama vs Romney, X=Y and M=N	_book/index.html	/^<h2 data-number="3.18" class="anchored" data-anchor-id="the-fair-election-of-2012-obama-vs-romne/;"	i
-3.18 The Fair Election of 2012, Obama vs Romney, X=Y and M=N	docs/index.html	/^<h2 data-number="3.18" class="anchored" data-anchor-id="the-fair-election-of-2012-obama-vs-romne/;"	i
 3.19 The Fair Election of 2016, Trump vs Hillary, X=Y and M=N	_book/index.html	/^<h2 data-number="3.19" class="anchored" data-anchor-id="the-fair-election-of-2016-trump-vs-hilla/;"	i
-3.19 The Fair Election of 2016, Trump vs Hillary, X=Y and M=N	docs/index.html	/^<h2 data-number="3.19" class="anchored" data-anchor-id="the-fair-election-of-2016-trump-vs-hilla/;"	i
 3.2 The Twenty Laws and Forty Isometries	_book/index.html	/^<h2 data-number="3.2" class="anchored" data-anchor-id="the-twenty-laws-and-forty-isometries"><sp/;"	i
-3.2 The Twenty Laws and Forty Isometries	docs/index.html	/^<h2 data-number="3.2" class="anchored" data-anchor-id="the-twenty-laws-and-forty-isometries"><sp/;"	i
 3.20 Brief Introduction to Complex Number Percentages and Manifolds for Two Simultaneous Races	_book/index.html	/^<h2 data-number="3.20" class="anchored" data-anchor-id="brief-introduction-to-complex-number-per/;"	i
-3.20 Brief Introduction to Complex Number Percentages and Manifolds for Two Simultaneous Races	docs/index.html	/^<h2 data-number="3.20" class="anchored" data-anchor-id="brief-introduction-to-complex-number-per/;"	i
 3.21 The G,H,Alpha Complex Number Manifold That Rigged Trump/Amodei vs Biden/Ackermann in Washoe County	_book/index.html	/^<h2 data-number="3.21" class="anchored" data-anchor-id="the-ghalpha-complex-number-manifold-that/;"	i
-3.21 The G,H,Alpha Complex Number Manifold That Rigged Trump/Amodei vs Biden/Ackermann in Washoe County	docs/index.html	/^<h2 data-number="3.21" class="anchored" data-anchor-id="the-ghalpha-complex-number-manifold-that/;"	i
 3.22 Brief Introduction to Quaternionic Percentages and Manifolds for Four Simultaneous Races	_book/index.html	/^<h2 data-number="3.22" class="anchored" data-anchor-id="brief-introduction-to-quaternionic-perce/;"	i
-3.22 Brief Introduction to Quaternionic Percentages and Manifolds for Four Simultaneous Races	docs/index.html	/^<h2 data-number="3.22" class="anchored" data-anchor-id="brief-introduction-to-quaternionic-perce/;"	i
 3.23 The Quaternionic Manifold of the Nevada 2022 General Election that allowed Lombardo to win while making the other Republicans lose.	_book/index.html	/^<h2 data-number="3.23" class="anchored" data-anchor-id="the-quaternionic-manifold-of-the-nevada-/;"	i
-3.23 The Quaternionic Manifold of the Nevada 2022 General Election that allowed Lombardo to win while making the other Republicans lose.	docs/index.html	/^<h2 data-number="3.23" class="anchored" data-anchor-id="the-quaternionic-manifold-of-the-nevada-/;"	i
 3.3 The Importance of the Twenty Laws and Forty Isometries	_book/index.html	/^<h2 data-number="3.3" class="anchored" data-anchor-id="the-importance-of-the-twenty-laws-and-for/;"	i
-3.3 The Importance of the Twenty Laws and Forty Isometries	docs/index.html	/^<h2 data-number="3.3" class="anchored" data-anchor-id="the-importance-of-the-twenty-laws-and-for/;"	i
 3.4 The Need for the Convergence, Constraint and Irrelevance Lemmas	_book/index.html	/^<h2 data-number="3.4" class="anchored" data-anchor-id="the-need-for-the-convergence-constraint-a/;"	i
-3.4 The Need for the Convergence, Constraint and Irrelevance Lemmas	docs/index.html	/^<h2 data-number="3.4" class="anchored" data-anchor-id="the-need-for-the-convergence-constraint-a/;"	i
 3.5 Tabulation Array; Data Set Definitions 1	_book/index.html	/^<h2 data-number="3.5" class="anchored" data-anchor-id="tabulation-array-data-set-definitions-1">/;"	i
-3.5 Tabulation Array; Data Set Definitions 1	docs/index.html	/^<h2 data-number="3.5" class="anchored" data-anchor-id="tabulation-array-data-set-definitions-1">/;"	i
 3.6 Counting Group; S,T,U,V and Quantile Arrays; Data Set Definitions 2	_book/index.html	/^<h2 data-number="3.6" class="anchored" data-anchor-id="counting-group-stuv-and-quantile-arrays-d/;"	i
-3.6 Counting Group; S,T,U,V and Quantile Arrays; Data Set Definitions 2	docs/index.html	/^<h2 data-number="3.6" class="anchored" data-anchor-id="counting-group-stuv-and-quantile-arrays-d/;"	i
 3.7 Ordinal, Percentage and Quantile Functions of an STUV Array	_book/index.html	/^<h2 data-number="3.7" class="anchored" data-anchor-id="ordinal-percentage-and-quantile-functions/;"	i
-3.7 Ordinal, Percentage and Quantile Functions of an STUV Array	docs/index.html	/^<h2 data-number="3.7" class="anchored" data-anchor-id="ordinal-percentage-and-quantile-functions/;"	i
 3.8 Convergence, Constraint and Irrelevance Lemmas	_book/index.html	/^<h2 data-number="3.8" class="anchored" data-anchor-id="convergence-constraint-and-irrelevance-le/;"	i
-3.8 Convergence, Constraint and Irrelevance Lemmas	docs/index.html	/^<h2 data-number="3.8" class="anchored" data-anchor-id="convergence-constraint-and-irrelevance-le/;"	i
 3.9 The Hyperbolic Reflection Theorem	_book/index.html	/^<h2 data-number="3.9" class="anchored" data-anchor-id="the-hyperbolic-reflection-theorem"><span /;"	i
-3.9 The Hyperbolic Reflection Theorem	docs/index.html	/^<h2 data-number="3.9" class="anchored" data-anchor-id="the-hyperbolic-reflection-theorem"><span /;"	i
 30	_book/search.json	/^  {$/;"	o
 30	docs/search.json	/^  {$/;"	o
 31	_book/search.json	/^  {$/;"	o
@@ -8973,6 +8974,7 @@ AUTO	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeo
 AUTO	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c532cd05
 Additional Law and Code Relevant to this Article	Core.tex	/^\\subsection{Additional Law and Code Relevant to this Article}$/;"	u	section:Introduction: Nevada State Law and Data Sources
 Additional Law and Code Relevant to this Article	abc.md	/^## Additional Law and Code Relevant to this Article$/;"	s	chapter:Introduction: Nevada State Law and Data Sources
+Additional Law and Code Relevant to this Article	import/Clark and Washoe Counties, Chapter One, 2020 and 2022/000Main.tex	/^\\subsection{Additional Law and Code Relevant to this Article}$/;"	u	section:Introduction: Nevada State Law and Data Sources
 Ae	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	c	class:Qt
 Ae	_book/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	c	function:me.be
 Ae	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	c
@@ -9001,14 +9003,17 @@ BOTTOM	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typ
 BOTTOM	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c532cd05
 Bard and ChatGPT's Verdict on the Two Common Sense Assumptions	Core.tex	/^\\subsection{Bard and ChatGPT's Verdict on the Two Common Sense Assumptions}$/;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 Bard and ChatGPT's Verdict on the Two Common Sense Assumptions	abc.md	/^## Bard and ChatGPT's Verdict on the Two Common Sense Assumptions$/;"	s	chapter:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
+Bard and ChatGPT's Verdict on the Two Common Sense Assumptions	import/Clark and Washoe Counties, Chapter One, 2020 and 2022/000Main.tex	/^\\subsection{Bard and ChatGPT's Verdict on the Two Common Sense Assumptions}$/;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 Be	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	c
 Be	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	c
 Boolean	_book/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	c
 Boolean	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	c
 Brief Introduction to Complex Number Percentages and Manifolds for Two Simultaneous Races	Core.tex	/^\\subsection{Brief Introduction to Complex Number Percentages and Manifolds for Two Simultaneous/;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 Brief Introduction to Complex Number Percentages and Manifolds for Two Simultaneous Races	abc.md	/^## Brief Introduction to Complex Number Percentages and Manifolds for Two Simultaneous Races$/;"	s	chapter:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
+Brief Introduction to Complex Number Percentages and Manifolds for Two Simultaneous Races	import/Clark and Washoe Counties, Chapter One, 2020 and 2022/000Main.tex	/^\\subsection{Brief Introduction to Complex Number Percentages and Manifolds for Two Simultaneous/;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 Brief Introduction to Quaternionic Percentages and Manifolds for Four Simultaneous Races	Core.tex	/^\\subsection{Brief Introduction to Quaternionic Percentages and Manifolds for Four Simultaneous /;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 Brief Introduction to Quaternionic Percentages and Manifolds for Four Simultaneous Races	abc.md	/^## Brief Introduction to Quaternionic Percentages and Manifolds for Four Simultaneous Races$/;"	s	chapter:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
+Brief Introduction to Quaternionic Percentages and Manifolds for Four Simultaneous Races	import/Clark and Washoe Counties, Chapter One, 2020 and 2022/000Main.tex	/^\\subsection{Brief Introduction to Quaternionic Percentages and Manifolds for Four Simultaneous /;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 Bt	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	c	class:At
 Bt	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	c	class:At
 C	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	v	method:anonymousObjectf392eb137d05.fn
@@ -9029,10 +9034,13 @@ Ce	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof
 Ce	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	c
 Clark County 2020 and 2022 Tabulation Sources	Core.tex	/^\\subsection{Clark County 2020 and 2022 Tabulation Sources}$/;"	u	section:Introduction: Nevada State Law and Data Sources
 Clark County 2020 and 2022 Tabulation Sources	abc.md	/^## Clark County 2020 and 2022 Tabulation Sources$/;"	s	chapter:Introduction: Nevada State Law and Data Sources
+Clark County 2020 and 2022 Tabulation Sources	import/Clark and Washoe Counties, Chapter One, 2020 and 2022/000Main.tex	/^\\subsection{Clark County 2020 and 2022 Tabulation Sources}$/;"	u	section:Introduction: Nevada State Law and Data Sources
 Convergence, Constraint and Irrelevance Lemmas	Core.tex	/^\\subsection{Convergence, Constraint and Irrelevance Lemmas}$/;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 Convergence, Constraint and Irrelevance Lemmas	abc.md	/^## Convergence, Constraint and Irrelevance Lemmas$/;"	s	chapter:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
+Convergence, Constraint and Irrelevance Lemmas	import/Clark and Washoe Counties, Chapter One, 2020 and 2022/000Main.tex	/^\\subsection{Convergence, Constraint and Irrelevance Lemmas}$/;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 Counting Group; S,T,U,V and Quantile Arrays; Data Set Definitions 2	Core.tex	/^\\subsection{Counting Group; S,T,U,V and Quantile Arrays; Data Set Definitions 2}$/;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 Counting Group; S,T,U,V and Quantile Arrays; Data Set Definitions 2	abc.md	/^## Counting Group; S,T,U,V and Quantile Arrays; Data Set Definitions 2$/;"	s	chapter:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
+Counting Group; S,T,U,V and Quantile Arrays; Data Set Definitions 2	import/Clark and Washoe Counties, Chapter One, 2020 and 2022/000Main.tex	/^\\subsection{Counting Group; S,T,U,V and Quantile Arrays; Data Set Definitions 2}$/;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 Ct	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	c	class:At
 Ct	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	c	class:At
 D	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	c	function:anonymousFunctionf392eb130200
@@ -9133,6 +9141,7 @@ Highlight	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"ob
 Highlight	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctionf0594d691ee00.anonymousFunctionf0594d691f400.anonymousFunctionf0594d691f500.E
 How the Clark, Washoe and Atlanta (GA) election Defy the Common Sense Assumption	Core.tex	/^\\subsection{How the Clark, Washoe and Atlanta (GA) election Defy the Common Sense Assumption}$/;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 How the Clark, Washoe and Atlanta (GA) election Defy the Common Sense Assumption	abc.md	/^## How the Clark, Washoe and Atlanta (GA) election Defy the Common Sense Assumption$/;"	s	chapter:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
+How the Clark, Washoe and Atlanta (GA) election Defy the Common Sense Assumption	import/Clark and Washoe Counties, Chapter One, 2020 and 2022/000Main.tex	/^\\subsection{How the Clark, Washoe and Atlanta (GA) election Defy the Common Sense Assumption}$/;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 I	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	c	function:anonymousFunctionf392eb130200
 I	_book/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	c	function:anonymousFunction0fcd626b0300.x
 I	_book/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	c	class:M
@@ -9149,6 +9158,7 @@ Ie	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==
 Ie	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	c
 Introduction: Nevada State Law and Data Sources	Core.tex	/^\\section{Introduction: Nevada State Law and Data Sources}$/;"	s
 Introduction: Nevada State Law and Data Sources	abc.md	/^# Introduction: Nevada State Law and Data Sources$/;"	c
+Introduction: Nevada State Law and Data Sources	import/Clark and Washoe Counties, Chapter One, 2020 and 2022/000Main.tex	/^\\section{Introduction: Nevada State Law and Data Sources}$/;"	s
 It	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	c
 It	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	c
 J	_book/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	c	function:anonymousFunction0fcd626b0300.x
@@ -9185,6 +9195,7 @@ Le	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof
 Le	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	c
 Legal Definition of a Ballot in Nevada	Core.tex	/^\\subsection{Legal Definition of a Ballot in Nevada}$/;"	u	section:Introduction: Nevada State Law and Data Sources
 Legal Definition of a Ballot in Nevada	abc.md	/^## Legal Definition of a Ballot in Nevada$/;"	s	chapter:Introduction: Nevada State Law and Data Sources
+Legal Definition of a Ballot in Nevada	import/Clark and Washoe Counties, Chapter One, 2020 and 2022/000Main.tex	/^\\subsection{Legal Definition of a Ballot in Nevada}$/;"	u	section:Introduction: Nevada State Law and Data Sources
 Lt	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	c	class:At
 Lt	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	c	class:At
 M	_book/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	c
@@ -9221,8 +9232,10 @@ Ne	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==
 Ne	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	c
 Nevada State Law; Ballots are Not Counted In Precincts	Core.tex	/^\\subsection{Nevada State Law; Ballots are Not Counted In Precincts}$/;"	u	section:Introduction: Nevada State Law and Data Sources
 Nevada State Law; Ballots are Not Counted In Precincts	abc.md	/^## Nevada State Law; Ballots are Not Counted In Precincts$/;"	s	chapter:Introduction: Nevada State Law and Data Sources
+Nevada State Law; Ballots are Not Counted In Precincts	import/Clark and Washoe Counties, Chapter One, 2020 and 2022/000Main.tex	/^\\subsection{Nevada State Law; Ballots are Not Counted In Precincts}$/;"	u	section:Introduction: Nevada State Law and Data Sources
 No one knows where the physical paper ballots are located in Washoe County; Exhibit of County Commissioner Jeanne Herman's Legal Affidavit	Core.tex	/^\\subsection{No one knows where the physical paper ballots are located in Washoe County; Exhibit/;"	u	section:Introduction: Nevada State Law and Data Sources
 No one knows where the physical paper ballots are located in Washoe County; Exhibit of County Commissioner Jeanne Herman's Legal Affidavit	abc.md	/^## No one knows where the physical paper ballots are located in Washoe County; Exhibit of County/;"	s	chapter:Introduction: Nevada State Law and Data Sources
+No one knows where the physical paper ballots are located in Washoe County; Exhibit of County Commissioner Jeanne Herman's Legal Affidavit	import/Clark and Washoe Counties, Chapter One, 2020 and 2022/000Main.tex	/^\\subsection{No one knows where the physical paper ballots are located in Washoe County; Exhibit/;"	u	section:Introduction: Nevada State Law and Data Sources
 Nt	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	c	class:At.Dt
 Nt	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	c	class:At.Dt
 O	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	v	function:anonymousFunctionf392eb130200
@@ -9239,6 +9252,7 @@ Oe	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof e
 Oe	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	c	function:me.be
 Ordinal, Percentage and Quantile Functions of an STUV Array	Core.tex	/^\\subsection{Ordinal, Percentage and Quantile Functions of an STUV Array}$/;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 Ordinal, Percentage and Quantile Functions of an STUV Array	abc.md	/^## Ordinal, Percentage and Quantile Functions of an STUV Array$/;"	s	chapter:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
+Ordinal, Percentage and Quantile Functions of an STUV Array	import/Clark and Washoe Counties, Chapter One, 2020 and 2022/000Main.tex	/^\\subsection{Ordinal, Percentage and Quantile Functions of an STUV Array}$/;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 Ot	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	c
 Ot	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	c
 P	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	c	function:anonymousFunctionf392eb130200
@@ -9273,6 +9287,7 @@ Re	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof e
 Re	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	c
 Recounts only rerun the electronic tape from the election through the same machine	Core.tex	/^\\subsection{Recounts only rerun the electronic tape from the election through the same machine}$/;"	u	section:Introduction: Nevada State Law and Data Sources
 Recounts only rerun the electronic tape from the election through the same machine	abc.md	/^## Recounts only rerun the electronic tape from the election through the same machine$/;"	s	chapter:Introduction: Nevada State Law and Data Sources
+Recounts only rerun the electronic tape from the election through the same machine	import/Clark and Washoe Counties, Chapter One, 2020 and 2022/000Main.tex	/^\\subsection{Recounts only rerun the electronic tape from the election through the same machine}$/;"	u	section:Introduction: Nevada State Law and Data Sources
 ReverseHighlight	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctionfc36ec2a1ee00.anonymousFunctionfc36ec2a1f400.anonymousFunctionfc36ec2a1f500.E
 ReverseHighlight	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctionf0594d691ee00.anonymousFunctionf0594d691f400.anonymousFunctionf0594d691f500.E
 ReverseSnippet	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctionfc36ec2a1ee00.anonymousFunctionfc36ec2a1f400.anonymousFunctionfc36ec2a1f500.E
@@ -9323,40 +9338,56 @@ Table of contents	_book/index.html	/^    <h2 id="toc-title">Table of contents<\/
 Table of contents	docs/index.html	/^    <h2 id="toc-title">Table of contents<\/h2>$/;"	i
 Tabulation Array; Data Set Definitions 1	Core.tex	/^\\subsection{Tabulation Array; Data Set Definitions 1}$/;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 Tabulation Array; Data Set Definitions 1	abc.md	/^## Tabulation Array; Data Set Definitions 1$/;"	s	chapter:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
+Tabulation Array; Data Set Definitions 1	import/Clark and Washoe Counties, Chapter One, 2020 and 2022/000Main.tex	/^\\subsection{Tabulation Array; Data Set Definitions 1}$/;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 Te	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	c	class:Qt
 Te	_book/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	c	function:me.be
 Te	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	c	class:Qt
 Te	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	c	function:me.be
 The Eight Problems of the 2020 Election of Trump vs Biden in Clark and Washoe Counties	Core.tex	/^\\subsection{The Eight Problems of the 2020 Election of Trump vs Biden in Clark and Washoe Count/;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 The Eight Problems of the 2020 Election of Trump vs Biden in Clark and Washoe Counties	abc.md	/^## The Eight Problems of the 2020 Election of Trump vs Biden in Clark and Washoe Counties$/;"	s	chapter:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
+The Eight Problems of the 2020 Election of Trump vs Biden in Clark and Washoe Counties	import/Clark and Washoe Counties, Chapter One, 2020 and 2022/000Main.tex	/^\\subsection{The Eight Problems of the 2020 Election of Trump vs Biden in Clark and Washoe Count/;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 The Fair Election of 2008, Obama vs McCain, M Parallel to N	Core.tex	/^\\subsection{The Fair Election of 2008, Obama vs McCain, M Parallel to N}$/;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 The Fair Election of 2008, Obama vs McCain, M Parallel to N	abc.md	/^## The Fair Election of 2008, Obama vs McCain, M Parallel to N$/;"	s	chapter:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
+The Fair Election of 2008, Obama vs McCain, M Parallel to N	import/Clark and Washoe Counties, Chapter One, 2020 and 2022/000Main.tex	/^\\subsection{The Fair Election of 2008, Obama vs McCain, M Parallel to N}$/;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 The Fair Election of 2012, Obama vs Romney, X=Y and M=N	Core.tex	/^\\subsection{The Fair Election of 2012, Obama vs Romney, X=Y and M=N}$/;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 The Fair Election of 2012, Obama vs Romney, X=Y and M=N	abc.md	/^## The Fair Election of 2012, Obama vs Romney, X=Y and M=N$/;"	s	chapter:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
+The Fair Election of 2012, Obama vs Romney, X=Y and M=N	import/Clark and Washoe Counties, Chapter One, 2020 and 2022/000Main.tex	/^\\subsection{The Fair Election of 2012, Obama vs Romney, X=Y and M=N}$/;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 The Fair Election of 2016, Trump vs Hillary, X=Y and M=N	Core.tex	/^\\subsection{The Fair Election of 2016, Trump vs Hillary, X=Y and M=N}$/;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 The Fair Election of 2016, Trump vs Hillary, X=Y and M=N	abc.md	/^## The Fair Election of 2016, Trump vs Hillary, X=Y and M=N$/;"	s	chapter:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
+The Fair Election of 2016, Trump vs Hillary, X=Y and M=N	import/Clark and Washoe Counties, Chapter One, 2020 and 2022/000Main.tex	/^\\subsection{The Fair Election of 2016, Trump vs Hillary, X=Y and M=N}$/;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 The G,H,Alpha Complex Number Manifold That Rigged Trump/Amodei vs Biden/Ackermann in Washoe County	Core.tex	/^\\subsection{The G,H,Alpha Complex Number Manifold That Rigged Trump\/Amodei vs Biden\/Ackermann/;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 The G,H,Alpha Complex Number Manifold That Rigged Trump/Amodei vs Biden/Ackermann in Washoe County	abc.md	/^## The G,H,Alpha Complex Number Manifold That Rigged Trump\/Amodei vs Biden\/Ackermann in Washoe/;"	s	chapter:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
+The G,H,Alpha Complex Number Manifold That Rigged Trump/Amodei vs Biden/Ackermann in Washoe County	import/Clark and Washoe Counties, Chapter One, 2020 and 2022/000Main.tex	/^\\subsection{The G,H,Alpha Complex Number Manifold That Rigged Trump\/Amodei vs Biden\/Ackermann/;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 The Geometric Absurdity of Constant Lambda; Why the Defense Cannot Assert that Constant Lambda is not unusual in a Safe and Secure Election; And Why Lambda is Called the "Obstacle Percentage\\"	abc.md	/^## The Geometric Absurdity of Constant Lambda; Why the Defense Cannot Assert that Constant Lambd/;"	s	chapter:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 The Geometric Absurdity of Constant Lambda; Why the Defense Cannot Assert that Constant Lambda is not unusual in a Safe and Secure Election; And Why Lambda is Called the ``Obstacle Percentage"	Core.tex	/^\\subsection{The Geometric Absurdity of Constant Lambda; Why the Defense Cannot Assert that Cons/;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
+The Geometric Absurdity of Constant Lambda; Why the Defense Cannot Assert that Constant Lambda is not unusual in a Safe and Secure Election; And Why Lambda is Called the ``Obstacle Percentage"	import/Clark and Washoe Counties, Chapter One, 2020 and 2022/000Main.tex	/^\\subsection{The Geometric Absurdity of Constant Lambda; Why the Defense Cannot Assert that Cons/;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 The Hyperbolic Reflection Theorem	Core.tex	/^\\subsection{The Hyperbolic Reflection Theorem}$/;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 The Hyperbolic Reflection Theorem	abc.md	/^## The Hyperbolic Reflection Theorem$/;"	s	chapter:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
+The Hyperbolic Reflection Theorem	import/Clark and Washoe Counties, Chapter One, 2020 and 2022/000Main.tex	/^\\subsection{The Hyperbolic Reflection Theorem}$/;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 The Importance of the Twenty Laws and Forty Isometries	Core.tex	/^\\subsection{The Importance of the Twenty Laws and Forty Isometries}$/;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 The Importance of the Twenty Laws and Forty Isometries	abc.md	/^## The Importance of the Twenty Laws and Forty Isometries$/;"	s	chapter:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
+The Importance of the Twenty Laws and Forty Isometries	import/Clark and Washoe Counties, Chapter One, 2020 and 2022/000Main.tex	/^\\subsection{The Importance of the Twenty Laws and Forty Isometries}$/;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 The Legal Futility of Public Observation	Core.tex	/^\\subsection{The Legal Futility of Public Observation}$/;"	u	section:Introduction: Nevada State Law and Data Sources
 The Legal Futility of Public Observation	abc.md	/^## The Legal Futility of Public Observation$/;"	s	chapter:Introduction: Nevada State Law and Data Sources
+The Legal Futility of Public Observation	import/Clark and Washoe Counties, Chapter One, 2020 and 2022/000Main.tex	/^\\subsection{The Legal Futility of Public Observation}$/;"	u	section:Introduction: Nevada State Law and Data Sources
 The Need for the Convergence, Constraint and Irrelevance Lemmas	Core.tex	/^\\subsection{The Need for the Convergence, Constraint and Irrelevance Lemmas}$/;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 The Need for the Convergence, Constraint and Irrelevance Lemmas	abc.md	/^## The Need for the Convergence, Constraint and Irrelevance Lemmas$/;"	s	chapter:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
+The Need for the Convergence, Constraint and Irrelevance Lemmas	import/Clark and Washoe Counties, Chapter One, 2020 and 2022/000Main.tex	/^\\subsection{The Need for the Convergence, Constraint and Irrelevance Lemmas}$/;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 The Quaternionic Manifold of the Nevada 2022 General Election that allowed Lombardo to win while making the other Republicans lose.	Core.tex	/^\\subsection{The Quaternionic Manifold of the Nevada 2022 General Election that allowed Lombardo/;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 The Quaternionic Manifold of the Nevada 2022 General Election that allowed Lombardo to win while making the other Republicans lose.	abc.md	/^## The Quaternionic Manifold of the Nevada 2022 General Election that allowed Lombardo to win wh/;"	s	chapter:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
+The Quaternionic Manifold of the Nevada 2022 General Election that allowed Lombardo to win while making the other Republicans lose.	import/Clark and Washoe Counties, Chapter One, 2020 and 2022/000Main.tex	/^\\subsection{The Quaternionic Manifold of the Nevada 2022 General Election that allowed Lombardo/;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 The Ratios Between the of Cardinalities Four Pairwise Disjoint Sets	Core.tex	/^\\subsection{The Ratios Between the of Cardinalities Four Pairwise Disjoint Sets}$/;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 The Ratios Between the of Cardinalities Four Pairwise Disjoint Sets	abc.md	/^## The Ratios Between the of Cardinalities Four Pairwise Disjoint Sets$/;"	s	chapter:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
+The Ratios Between the of Cardinalities Four Pairwise Disjoint Sets	import/Clark and Washoe Counties, Chapter One, 2020 and 2022/000Main.tex	/^\\subsection{The Ratios Between the of Cardinalities Four Pairwise Disjoint Sets}$/;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 The Twenty Laws and Forty Isometries	Core.tex	/^\\subsection{The Twenty Laws and Forty Isometries}$/;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 The Twenty Laws and Forty Isometries	abc.md	/^## The Twenty Laws and Forty Isometries$/;"	s	chapter:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
+The Twenty Laws and Forty Isometries	import/Clark and Washoe Counties, Chapter One, 2020 and 2022/000Main.tex	/^\\subsection{The Twenty Laws and Forty Isometries}$/;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets	Core.tex	/^\\section{The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint /;"	s
 The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets	abc.md	/^# The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets$/;"	c
+The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets	import/Clark and Washoe Counties, Chapter One, 2020 and 2022/000Main.tex	/^\\section{The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint /;"	s
 The Two Common Sense Assumptions	Core.tex	/^\\subsection{The Two Common Sense Assumptions}$/;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 The Two Common Sense Assumptions	abc.md	/^## The Two Common Sense Assumptions$/;"	s	chapter:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
+The Two Common Sense Assumptions	import/Clark and Washoe Counties, Chapter One, 2020 and 2022/000Main.tex	/^\\subsection{The Two Common Sense Assumptions}$/;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 Tt	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	c	class:At
 Tt	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	c	class:At
 U	_book/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	c	function:anonymousFunction0fcd626b0300.x
@@ -9383,6 +9414,7 @@ Ve	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==
 Ve	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	c
 Votes are Computed By Law, Not Counted	Core.tex	/^\\subsection{Votes are Computed By Law, Not Counted}$/;"	u	section:Introduction: Nevada State Law and Data Sources
 Votes are Computed By Law, Not Counted	abc.md	/^## Votes are Computed By Law, Not Counted$/;"	s	chapter:Introduction: Nevada State Law and Data Sources
+Votes are Computed By Law, Not Counted	import/Clark and Washoe Counties, Chapter One, 2020 and 2022/000Main.tex	/^\\subsection{Votes are Computed By Law, Not Counted}$/;"	u	section:Introduction: Nevada State Law and Data Sources
 Vt	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	c
 Vt	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	c	class:At
 Vt	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	c
@@ -9393,10 +9425,12 @@ W	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==ty
 W	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	c
 Washoe County 2020 and 2022 Tabulation Sources	Core.tex	/^\\subsection{Washoe County 2020 and 2022 Tabulation Sources}$/;"	u	section:Introduction: Nevada State Law and Data Sources
 Washoe County 2020 and 2022 Tabulation Sources	abc.md	/^## Washoe County 2020 and 2022 Tabulation Sources$/;"	s	chapter:Introduction: Nevada State Law and Data Sources
+Washoe County 2020 and 2022 Tabulation Sources	import/Clark and Washoe Counties, Chapter One, 2020 and 2022/000Main.tex	/^\\subsection{Washoe County 2020 and 2022 Tabulation Sources}$/;"	u	section:Introduction: Nevada State Law and Data Sources
 We	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	c
 We	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	c
 What is the Trajectory of Lambda in Fair Election? No Basis for Democrats Preferring To Vote by Mail	Core.tex	/^\\subsection{What is the Trajectory of Lambda in Fair Election? No Basis for Democrats Preferrin/;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 What is the Trajectory of Lambda in Fair Election? No Basis for Democrats Preferring To Vote by Mail	abc.md	/^## What is the Trajectory of Lambda in Fair Election? No Basis for Democrats Preferring To Vote /;"	s	chapter:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
+What is the Trajectory of Lambda in Fair Election? No Basis for Democrats Preferring To Vote by Mail	import/Clark and Washoe Counties, Chapter One, 2020 and 2022/000Main.tex	/^\\subsection{What is the Trajectory of Lambda in Fair Election? No Basis for Democrats Preferrin/;"	u	section:The Twenty Laws and Forty Isometries That Govern the Proportion Between Four Disjoint Sets
 Wt	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	c
 Wt	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	c
 Wt	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	c
@@ -9543,6 +9577,7 @@ abbr[title]	_book/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/
 abbr[title]	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 abstract	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.metadata
 abstract	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.metadata
+abstract	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:markdown.yaml
 action	_book/site_libs/clipboard/clipboard.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	variable:anonymousFunction032b26770200.n.686.b.anonymousObject032b26771705.value.anonymousObject032b26771805
 action	_book/site_libs/clipboard/clipboard.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	variable:anonymousFunction032b26770200.n.686.b.anonymousObject032b26771705.value.anonymousObject032b26771905
 action	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousObjectfc36ec2aa705
@@ -9594,7 +9629,7 @@ addClass	docs/site_libs/quarto-nav/headroom.min.js	/^!function(t,n){"object"==ty
 addParam	_book/site_libs/quarto-search/quarto-search.js	/^    const addParam = (url, name, value) => {$/;"	f
 addParam	docs/site_libs/quarto-search/quarto-search.js	/^    const addParam = (url, name, value) => {$/;"	f
 additional-law-and-code-relevant-to-this-article	_book/index.html	/^<section id="additional-law-and-code-relevant-to-this-article" class="level2" data-number="2.6">$/;"	I
-additional-law-and-code-relevant-to-this-article	docs/index.html	/^<section id="additional-law-and-code-relevant-to-this-article" class="level2" data-number="2.6">$/;"	I
+additional-law-and-code-relevant-to-this-article	docs/index.html	/^<section id="additional-law-and-code-relevant-to-this-article" class="level2" data-number="1.6">$/;"	I
 address	_book/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 address	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 ae	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f	class:Qt
@@ -11907,6 +11942,7 @@ attributes	docs/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==t
 attributes	docs/site_libs/quarto-nav/quarto-nav.js	/^      attributes: true,$/;"	p	variable:anonymousObject7a70b4600a05
 author	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	a	object:formats.html.metadata
 author	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	a	object:formats.pdf.metadata
+author	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	a	object:markdown.yaml
 auto	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObjectf392eb13a705
 auto	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c532a705
 autoCapitalize	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:Ee.anonymousObjectfc36ec2aaf05
@@ -12165,7 +12201,7 @@ children	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){
 childtop	_book/site_libs/quarto-html/quarto.js	/^        childtop: marginChild.getBoundingClientRect().top,$/;"	p	variable:anonymousObjectae48903f0205
 childtop	docs/site_libs/quarto-html/quarto.js	/^        childtop: marginChild.getBoundingClientRect().top,$/;"	p	variable:anonymousObjecta143dafe0205
 clark-county-2020-and-2022-tabulation-sources	_book/index.html	/^<section id="clark-county-2020-and-2022-tabulation-sources" class="level2" data-number="2.8">$/;"	I
-clark-county-2020-and-2022-tabulation-sources	docs/index.html	/^<section id="clark-county-2020-and-2022-tabulation-sources" class="level2" data-number="2.8">$/;"	I
+clark-county-2020-and-2022-tabulation-sources	docs/index.html	/^<section id="clark-county-2020-and-2022-tabulation-sources" class="level2" data-number="1.8">$/;"	I
 class	_book/site_libs/bootstrap/bootstrap-icons.css	/^[class^="bi-"]::before,$/;"	s
 class	docs/site_libs/bootstrap/bootstrap-icons.css	/^[class^="bi-"]::before,$/;"	s
 class*	_book/site_libs/bootstrap/bootstrap-icons.css	/^[class*=" bi-"]::before {$/;"	s
@@ -12498,7 +12534,7 @@ context	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"objec
 context	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctionf0594d691ee00.anonymousObjectf0594d6920505
 context	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctionf0594d69dc00.anonymousObjectf0594d69ee05
 convergence-constraint-and-irrelevance-lemmas	_book/index.html	/^<section id="convergence-constraint-and-irrelevance-lemmas" class="level2" data-number="3.8">$/;"	I
-convergence-constraint-and-irrelevance-lemmas	docs/index.html	/^<section id="convergence-constraint-and-irrelevance-lemmas" class="level2" data-number="3.8">$/;"	I
+convergence-constraint-and-irrelevance-lemmas	docs/index.html	/^<section id="convergence-constraint-and-irrelevance-lemmas" class="level2" data-number="2.8">$/;"	I
 convertToMenu	_book/site_libs/quarto-html/quarto.js	/^        const convertToMenu = () => {$/;"	f	function:anonymousFunctionae48903f0400
 convertToMenu	docs/site_libs/quarto-html/quarto.js	/^        const convertToMenu = () => {$/;"	f	function:anonymousFunctiona143dafe0400
 convertToSidebar	_book/site_libs/quarto-html/quarto.js	/^        const convertToSidebar = () => {$/;"	f	function:anonymousFunctionae48903f0400
@@ -12507,6 +12543,7 @@ copy-button-tooltip	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 
 copy-button-tooltip	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
 copy-button-tooltip-success	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
 copy-button-tooltip-success	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
+corollary	import/Clark and Washoe Counties, Chapter One, 2020 and 2022/000Main.tex	/^\\newtheorem{corollary}{Corollary}[theorem]$/;"	t
 counting-group-stuv-and-quantile-arrays-data-set-definitions-2	_book/index.html	/^<section id="counting-group-stuv-and-quantile-arrays-data-set-definitions-2" class="level2" data/;"	I
 counting-group-stuv-and-quantile-arrays-data-set-definitions-2	docs/index.html	/^<section id="counting-group-stuv-and-quantile-arrays-data-set-definitions-2" class="level2" data/;"	I
 createDocumentCard	_book/site_libs/quarto-search/quarto-search.js	/^function createDocumentCard(createElement, icon, title, section, text, href) {$/;"	f
@@ -12703,6 +12740,7 @@ defaultValue	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"objec
 defaultValue	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:anonymousObject9f68ba3e8005
 deferredLoadPlugin	_book/site_libs/quarto-search/quarto-search.js	/^function deferredLoadPlugin(createPlugin) {$/;"	f
 deferredLoadPlugin	docs/site_libs/quarto-search/quarto-search.js	/^function deferredLoadPlugin(createPlugin) {$/;"	f
+definition	import/Clark and Washoe Counties, Chapter One, 2020 and 2022/000Main.tex	/^\\newtheorem{definition}{Definition}[section]$/;"	t
 delay	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObjectf392eb1310b05
 delay	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObjectf392eb1310c05
 delay	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObjectf392eb13cc05
@@ -14186,9 +14224,8 @@ interval	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==t
 interval	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c5321805
 interval	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c5321905
 introduction	_book/index.html	/^<section id="introduction" class="level1" data-number="1">$/;"	I
-introduction	docs/index.html	/^<section id="introduction" class="level1" data-number="1">$/;"	I
 introduction-nevada-state-law-and-data-sources	_book/index.html	/^<section id="introduction-nevada-state-law-and-data-sources" class="level1" data-number="2">$/;"	I
-introduction-nevada-state-law-and-data-sources	docs/index.html	/^<section id="introduction-nevada-state-law-and-data-sources" class="level1" data-number="2">$/;"	I
+introduction-nevada-state-law-and-data-sources	docs/index.html	/^<section id="introduction-nevada-state-law-and-data-sources" class="level1" data-number="1">$/;"	I
 ipynb	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	z	object:formats.html.execute
 ipynb	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	z	object:formats.pdf.execute
 ipynb-filters	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	a	object:formats.html.execute
@@ -14732,11 +14769,12 @@ left	docs/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeof 
 left	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	property:anonymousObject9f68ba3e5c05.effect.n.popper
 left	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	property:me.be.Ce.anonymousObject9f68ba3e4a05.options.padding
 legal-definition-of-a-ballot-in-nevada	_book/index.html	/^<section id="legal-definition-of-a-ballot-in-nevada" class="level2" data-number="2.2">$/;"	I
-legal-definition-of-a-ballot-in-nevada	docs/index.html	/^<section id="legal-definition-of-a-ballot-in-nevada" class="level2" data-number="2.2">$/;"	I
+legal-definition-of-a-ballot-in-nevada	docs/index.html	/^<section id="legal-definition-of-a-ballot-in-nevada" class="level2" data-number="1.2">$/;"	I
 legend	_book/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 legend	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 legend+*	_book/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 legend+*	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
+lemma	import/Clark and Washoe Counties, Chapter One, 2020 and 2022/000Main.tex	/^\\newtheorem{lemma}[theorem]{Lemma}$/;"	t
 li	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	property:anonymousObjectf392eb13ce05.allowList
 li	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	property:anonymousObject56b5c532ce05.allowList
 li code:not(.sourceCode)	_book/site_libs/bootstrap/bootstrap.min.css	/^*\/.ansi-black-fg{color:#3e424d}.ansi-black-bg{background-color:#3e424d}.ansi-black-intense-fg{c/;"	c
@@ -16482,38 +16520,38 @@ section	_book/search.json	/^    "section": "3.7 Ordinal, Percentage and Quantile
 section	_book/search.json	/^    "section": "3.8 Convergence, Constraint and Irrelevance Lemmas",$/;"	s	object:17
 section	_book/search.json	/^    "section": "3.9 The Hyperbolic Reflection Theorem",$/;"	s	object:18
 section	docs/search.json	/^    "section": "",$/;"	s	object:0
-section	docs/search.json	/^    "section": "2.1 Nevada State Law; Ballots are Not Counted In Precincts",$/;"	s	object:1
-section	docs/search.json	/^    "section": "2.2 Legal Definition of a Ballot in Nevada",$/;"	s	object:2
-section	docs/search.json	/^    "section": "2.3 The Legal Futility of Public Observation",$/;"	s	object:3
-section	docs/search.json	/^    "section": "2.4 Votes are Computed By Law, Not Counted",$/;"	s	object:4
-section	docs/search.json	/^    "section": "2.5 Recounts only rerun the electronic tape from the election through the same m/;"	s	object:5
-section	docs/search.json	/^    "section": "2.6 Additional Law and Code Relevant to this Article",$/;"	s	object:6
-section	docs/search.json	/^    "section": "2.7 No one knows where the physical paper ballots are located in Washoe County; /;"	s	object:7
-section	docs/search.json	/^    "section": "2.8 Clark County 2020 and 2022 Tabulation Sources",$/;"	s	object:8
-section	docs/search.json	/^    "section": "2.9 Washoe County 2020 and 2022 Tabulation Sources",$/;"	s	object:9
-section	docs/search.json	/^    "section": "3.1 The Ratios Between the of Cardinalities Four Pairwise Disjoint Sets",$/;"	s	object:10
-section	docs/search.json	/^    "section": "3.10 The Two Common Sense Assumptions",$/;"	s	object:19
-section	docs/search.json	/^    "section": "3.11 Bard and ChatGPT’s Verdict on the Two Common Sense Assumptions",$/;"	s	object:20
-section	docs/search.json	/^    "section": "3.12 How the Clark, Washoe and Atlanta (GA) election Defy the Common Sense Assum/;"	s	object:21
-section	docs/search.json	/^    "section": "3.13 The Geometric Absurdity of Constant Lambda; Why the Defense Cannot Assert t/;"	s	object:22
-section	docs/search.json	/^    "section": "3.14 The Eight Problems of the 2020 Election of Trump vs Biden in Clark and Wash/;"	s	object:23
-section	docs/search.json	/^    "section": "3.15 What is the Trajectory of Lambda in Fair Election? No Basis for Democrats P/;"	s	object:24
-section	docs/search.json	/^    "section": "3.16 2004 General Election of Bush vs Kerry, 2004, Fair Election, Clark and Wash/;"	s	object:25
-section	docs/search.json	/^    "section": "3.17 The Fair Election of 2008, Obama vs McCain, M Parallel to N",$/;"	s	object:26
-section	docs/search.json	/^    "section": "3.18 The Fair Election of 2012, Obama vs Romney, X=Y and M=N",$/;"	s	object:27
-section	docs/search.json	/^    "section": "3.19 The Fair Election of 2016, Trump vs Hillary, X=Y and M=N",$/;"	s	object:28
-section	docs/search.json	/^    "section": "3.2 The Twenty Laws and Forty Isometries",$/;"	s	object:11
-section	docs/search.json	/^    "section": "3.20 Brief Introduction to Complex Number Percentages and Manifolds for Two Simu/;"	s	object:29
-section	docs/search.json	/^    "section": "3.21 The G,H,Alpha Complex Number Manifold That Rigged Trump\/Amodei vs Biden\/A/;"	s	object:30
-section	docs/search.json	/^    "section": "3.22 Brief Introduction to Quaternionic Percentages and Manifolds for Four Simul/;"	s	object:31
-section	docs/search.json	/^    "section": "3.23 The Quaternionic Manifold of the Nevada 2022 General Election that allowed /;"	s	object:32
-section	docs/search.json	/^    "section": "3.3 The Importance of the Twenty Laws and Forty Isometries",$/;"	s	object:12
-section	docs/search.json	/^    "section": "3.4 The Need for the Convergence, Constraint and Irrelevance Lemmas",$/;"	s	object:13
-section	docs/search.json	/^    "section": "3.5 Tabulation Array; Data Set Definitions 1",$/;"	s	object:14
-section	docs/search.json	/^    "section": "3.6 Counting Group; S,T,U,V and Quantile Arrays; Data Set Definitions 2",$/;"	s	object:15
-section	docs/search.json	/^    "section": "3.7 Ordinal, Percentage and Quantile Functions of an STUV Array",$/;"	s	object:16
-section	docs/search.json	/^    "section": "3.8 Convergence, Constraint and Irrelevance Lemmas",$/;"	s	object:17
-section	docs/search.json	/^    "section": "3.9 The Hyperbolic Reflection Theorem",$/;"	s	object:18
+section	docs/search.json	/^    "section": "1.1 Nevada State Law; Ballots are Not Counted In Precincts",$/;"	s	object:1
+section	docs/search.json	/^    "section": "1.2 Legal Definition of a Ballot in Nevada",$/;"	s	object:2
+section	docs/search.json	/^    "section": "1.3 The Legal Futility of Public Observation",$/;"	s	object:3
+section	docs/search.json	/^    "section": "1.4 Votes are Computed By Law, Not Counted",$/;"	s	object:4
+section	docs/search.json	/^    "section": "1.5 Recounts only rerun the electronic tape from the election through the same m/;"	s	object:5
+section	docs/search.json	/^    "section": "1.6 Additional Law and Code Relevant to this Article",$/;"	s	object:6
+section	docs/search.json	/^    "section": "1.7 No one knows where the physical paper ballots are located in Washoe County; /;"	s	object:7
+section	docs/search.json	/^    "section": "1.8 Clark County 2020 and 2022 Tabulation Sources",$/;"	s	object:8
+section	docs/search.json	/^    "section": "1.9 Washoe County 2020 and 2022 Tabulation Sources",$/;"	s	object:9
+section	docs/search.json	/^    "section": "2.1 The Ratios Between the of Cardinalities Four Pairwise Disjoint Sets",$/;"	s	object:10
+section	docs/search.json	/^    "section": "2.10 The Two Common Sense Assumptions",$/;"	s	object:19
+section	docs/search.json	/^    "section": "2.11 Bard and ChatGPT’s Verdict on the Two Common Sense Assumptions",$/;"	s	object:20
+section	docs/search.json	/^    "section": "2.12 How the Clark, Washoe and Atlanta (GA) election Defy the Common Sense Assum/;"	s	object:21
+section	docs/search.json	/^    "section": "2.13 The Geometric Absurdity of Constant Lambda; Why the Defense Cannot Assert t/;"	s	object:22
+section	docs/search.json	/^    "section": "2.14 The Eight Problems of the 2020 Election of Trump vs Biden in Clark and Wash/;"	s	object:23
+section	docs/search.json	/^    "section": "2.15 What is the Trajectory of Lambda in Fair Election? No Basis for Democrats P/;"	s	object:24
+section	docs/search.json	/^    "section": "2.16 2004 General Election of Bush vs Kerry, 2004, Fair Election, Clark and Wash/;"	s	object:25
+section	docs/search.json	/^    "section": "2.17 The Fair Election of 2008, Obama vs McCain, M Parallel to N",$/;"	s	object:26
+section	docs/search.json	/^    "section": "2.18 The Fair Election of 2012, Obama vs Romney, X=Y and M=N",$/;"	s	object:27
+section	docs/search.json	/^    "section": "2.19 The Fair Election of 2016, Trump vs Hillary, X=Y and M=N",$/;"	s	object:28
+section	docs/search.json	/^    "section": "2.2 The Twenty Laws and Forty Isometries",$/;"	s	object:11
+section	docs/search.json	/^    "section": "2.20 Brief Introduction to Complex Number Percentages and Manifolds for Two Simu/;"	s	object:29
+section	docs/search.json	/^    "section": "2.21 The G,H,Alpha Complex Number Manifold That Rigged Trump\/Amodei vs Biden\/A/;"	s	object:30
+section	docs/search.json	/^    "section": "2.22 Brief Introduction to Quaternionic Percentages and Manifolds for Four Simul/;"	s	object:31
+section	docs/search.json	/^    "section": "2.23 The Quaternionic Manifold of the Nevada 2022 General Election that allowed /;"	s	object:32
+section	docs/search.json	/^    "section": "2.3 The Importance of the Twenty Laws and Forty Isometries",$/;"	s	object:12
+section	docs/search.json	/^    "section": "2.4 The Need for the Convergence, Constraint and Irrelevance Lemmas",$/;"	s	object:13
+section	docs/search.json	/^    "section": "2.5 Tabulation Array; Data Set Definitions 1",$/;"	s	object:14
+section	docs/search.json	/^    "section": "2.6 Counting Group; S,T,U,V and Quantile Arrays; Data Set Definitions 2",$/;"	s	object:15
+section	docs/search.json	/^    "section": "2.7 Ordinal, Percentage and Quantile Functions of an STUV Array",$/;"	s	object:16
+section	docs/search.json	/^    "section": "2.8 Convergence, Constraint and Irrelevance Lemmas",$/;"	s	object:17
+section	docs/search.json	/^    "section": "2.9 The Hyperbolic Reflection Theorem",$/;"	s	object:18
 section-title-abstract	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
 section-title-abstract	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
 section-title-appendices	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
@@ -16956,7 +16994,7 @@ table.quarto-listing-table.table-hover td	_book/site_libs/bootstrap/bootstrap.mi
 table.quarto-listing-table.table-hover td	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 tables	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.pdf.pandoc.variables
 tabulation-array-data-set-definitions-1	_book/index.html	/^<section id="tabulation-array-data-set-definitions-1" class="level2" data-number="3.5">$/;"	I
-tabulation-array-data-set-definitions-1	docs/index.html	/^<section id="tabulation-array-data-set-definitions-1" class="level2" data-number="3.5">$/;"	I
+tabulation-array-data-set-definitions-1	docs/index.html	/^<section id="tabulation-array-data-set-definitions-1" class="level2" data-number="2.5">$/;"	I
 target	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	function:anonymousFunctionf392eb130200.a
 target	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousFunctionf392eb130200.N.n.anonymousObjectf392eb130405
 target	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObjectf392eb13aa05.anonymousObjectf392eb13af05
@@ -17031,39 +17069,39 @@ text	_book/search.json	/^    "text": "3.9 The Hyperbolic Reflection Theorem\\nBe
 text	_book/site_libs/clipboard/clipboard.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	variable:anonymousFunction032b26770200.n.686.b.anonymousObject032b26771705.value.anonymousObject032b26771805
 text	_book/site_libs/clipboard/clipboard.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	variable:anonymousFunction032b26770200.n.686.b.anonymousObject032b26771705.value.anonymousObject032b26771905
 text	_book/site_libs/quarto-search/quarto-search.js	/^        text: function (_trigger) {$/;"	m	variable:showCopyLink.anonymousObject51d9e8c31e05
-text	docs/search.json	/^    "text": "1 Introduction\\nThis is a book created from markdown and executable code.\\nIn mos/;"	s	object:0
-text	docs/search.json	/^    "text": "2.1 Nevada State Law; Ballots are Not Counted In Precincts\\nBefore we can even beg/;"	s	object:1
-text	docs/search.json	/^    "text": "2.2 Legal Definition of a Ballot in Nevada\\nIt is again imperative that both the g/;"	s	object:2
-text	docs/search.json	/^    "text": "2.3 The Legal Futility of Public Observation\\nThe next quoted sections shows your /;"	s	object:3
-text	docs/search.json	/^    "text": "2.4 Votes are Computed By Law, Not Counted\\nThis segment of Nevada Law speaks for /;"	s	object:4
-text	docs/search.json	/^    "text": "2.5 Recounts only rerun the electronic tape from the election through the same mach/;"	s	object:5
-text	docs/search.json	/^    "text": "2.6 Additional Law and Code Relevant to this Article\\nThe final segments of Electi/;"	s	object:6
-text	docs/search.json	/^    "text": "2.7 No one knows where the physical paper ballots are located in Washoe County; Exh/;"	s	object:7
-text	docs/search.json	/^    "text": "2.8 Clark County 2020 and 2022 Tabulation Sources\\n2020 General Election:https:\/\//;"	s	object:8
-text	docs/search.json	/^    "text": "2.9 Washoe County 2020 and 2022 Tabulation Sources\\n2020 General Election: https:\//;"	s	object:9
-text	docs/search.json	/^    "text": "3.1 The Ratios Between the of Cardinalities Four Pairwise Disjoint Sets\\n\\nLet S,/;"	s	object:10
-text	docs/search.json	/^    "text": "3.10 The Two Common Sense Assumptions\\nSuppose you asked a fifth grader: “If I w/;"	s	object:19
-text	docs/search.json	/^    "text": "3.11 Bard and ChatGPT’s Verdict on the Two Common Sense Assumptions\\nBard’s Re/;"	s	object:20
-text	docs/search.json	/^    "text": "3.12 How the Clark, Washoe and Atlanta (GA) election Defy the Common Sense Assumpti/;"	s	object:21
-text	docs/search.json	/^    "text": "3.13 The Geometric Absurdity of Constant Lambda; Why the Defense Cannot Assert that/;"	s	object:22
-text	docs/search.json	/^    "text": "3.14 The Eight Problems of the 2020 Election of Trump vs Biden in Clark and Washoe /;"	s	object:23
-text	docs/search.json	/^    "text": "3.15 What is the Trajectory of Lambda in Fair Election? No Basis for Democrats Pref/;"	s	object:24
-text	docs/search.json	/^    "text": "3.16 2004 General Election of Bush vs Kerry, 2004, Fair Election, Clark and Washoe,/;"	s	object:25
-text	docs/search.json	/^    "text": "3.17 The Fair Election of 2008, Obama vs McCain, M Parallel to N\\nHere is the link/;"	s	object:26
-text	docs/search.json	/^    "text": "3.18 The Fair Election of 2012, Obama vs Romney, X=Y and M=N\\nHere is the link to /;"	s	object:27
-text	docs/search.json	/^    "text": "3.19 The Fair Election of 2016, Trump vs Hillary, X=Y and M=N\\nHere is the link to/;"	s	object:28
-text	docs/search.json	/^    "text": "3.2 The Twenty Laws and Forty Isometries\\n\\n\\n\\n\\n|l|l|l|l| Law Number & North/;"	s	object:11
-text	docs/search.json	/^    "text": "3.20 Brief Introduction to Complex Number Percentages and Manifolds for Two Simulta/;"	s	object:29
-text	docs/search.json	/^    "text": "3.21 The G,H,Alpha Complex Number Manifold That Rigged Trump\/Amodei vs Biden\/Acke/;"	s	object:30
-text	docs/search.json	/^    "text": "3.22 Brief Introduction to Quaternionic Percentages and Manifolds for Four Simultan/;"	s	object:31
-text	docs/search.json	/^    "text": "3.23 The Quaternionic Manifold of the Nevada 2022 General Election that allowed Lom/;"	s	object:32
-text	docs/search.json	/^    "text": "3.3 The Importance of the Twenty Laws and Forty Isometries\\nThe Twenty Laws instru/;"	s	object:12
-text	docs/search.json	/^    "text": "3.4 The Need for the Convergence, Constraint and Irrelevance Lemmas\\nHowever there/;"	s	object:13
-text	docs/search.json	/^    "text": "3.5 Tabulation Array; Data Set Definitions 1\\n\\nThe Precinct Set and Principal In/;"	s	object:14
-text	docs/search.json	/^    "text": "3.6 Counting Group; S,T,U,V and Quantile Arrays; Data Set Definitions 2\\n\\nLocal /;"	s	object:15
-text	docs/search.json	/^    "text": "3.7 Ordinal, Percentage and Quantile Functions of an STUV Array\\n\\nThe Precinct O/;"	s	object:16
-text	docs/search.json	/^    "text": "3.8 Convergence, Constraint and Irrelevance Lemmas\\nNote: The final line in the be/;"	s	object:17
-text	docs/search.json	/^    "text": "3.9 The Hyperbolic Reflection Theorem\\nBefore we move on to the following chapters/;"	s	object:18
+text	docs/search.json	/^    "text": "1 Introduction: Nevada State Law and Data Sources\\nIn most elections across the Un/;"	s	object:0
+text	docs/search.json	/^    "text": "1.1 Nevada State Law; Ballots are Not Counted In Precincts\\nBefore we can even beg/;"	s	object:1
+text	docs/search.json	/^    "text": "1.2 Legal Definition of a Ballot in Nevada\\nIt is again imperative that both the g/;"	s	object:2
+text	docs/search.json	/^    "text": "1.3 The Legal Futility of Public Observation\\nThe next quoted sections shows your /;"	s	object:3
+text	docs/search.json	/^    "text": "1.4 Votes are Computed By Law, Not Counted\\nThis segment of Nevada Law speaks for /;"	s	object:4
+text	docs/search.json	/^    "text": "1.5 Recounts only rerun the electronic tape from the election through the same mach/;"	s	object:5
+text	docs/search.json	/^    "text": "1.6 Additional Law and Code Relevant to this Article\\nThe final segments of Electi/;"	s	object:6
+text	docs/search.json	/^    "text": "1.7 No one knows where the physical paper ballots are located in Washoe County; Exh/;"	s	object:7
+text	docs/search.json	/^    "text": "1.8 Clark County 2020 and 2022 Tabulation Sources\\n2020 General Election:https:\/\//;"	s	object:8
+text	docs/search.json	/^    "text": "1.9 Washoe County 2020 and 2022 Tabulation Sources\\n2020 General Election: https:\//;"	s	object:9
+text	docs/search.json	/^    "text": "2.1 The Ratios Between the of Cardinalities Four Pairwise Disjoint Sets\\n\\nLet S,/;"	s	object:10
+text	docs/search.json	/^    "text": "2.10 The Two Common Sense Assumptions\\nSuppose you asked a fifth grader: “If I w/;"	s	object:19
+text	docs/search.json	/^    "text": "2.11 Bard and ChatGPT’s Verdict on the Two Common Sense Assumptions\\nBard’s Re/;"	s	object:20
+text	docs/search.json	/^    "text": "2.12 How the Clark, Washoe and Atlanta (GA) election Defy the Common Sense Assumpti/;"	s	object:21
+text	docs/search.json	/^    "text": "2.13 The Geometric Absurdity of Constant Lambda; Why the Defense Cannot Assert that/;"	s	object:22
+text	docs/search.json	/^    "text": "2.14 The Eight Problems of the 2020 Election of Trump vs Biden in Clark and Washoe /;"	s	object:23
+text	docs/search.json	/^    "text": "2.15 What is the Trajectory of Lambda in Fair Election? No Basis for Democrats Pref/;"	s	object:24
+text	docs/search.json	/^    "text": "2.16 2004 General Election of Bush vs Kerry, 2004, Fair Election, Clark and Washoe,/;"	s	object:25
+text	docs/search.json	/^    "text": "2.17 The Fair Election of 2008, Obama vs McCain, M Parallel to N\\nHere is the link/;"	s	object:26
+text	docs/search.json	/^    "text": "2.18 The Fair Election of 2012, Obama vs Romney, X=Y and M=N\\nHere is the link to /;"	s	object:27
+text	docs/search.json	/^    "text": "2.19 The Fair Election of 2016, Trump vs Hillary, X=Y and M=N\\nHere is the link to/;"	s	object:28
+text	docs/search.json	/^    "text": "2.2 The Twenty Laws and Forty Isometries\\n\\n\\n\\n\\n|l|l|l|l| Law Number & North/;"	s	object:11
+text	docs/search.json	/^    "text": "2.20 Brief Introduction to Complex Number Percentages and Manifolds for Two Simulta/;"	s	object:29
+text	docs/search.json	/^    "text": "2.21 The G,H,Alpha Complex Number Manifold That Rigged Trump\/Amodei vs Biden\/Acke/;"	s	object:30
+text	docs/search.json	/^    "text": "2.22 Brief Introduction to Quaternionic Percentages and Manifolds for Four Simultan/;"	s	object:31
+text	docs/search.json	/^    "text": "2.23 The Quaternionic Manifold of the Nevada 2022 General Election that allowed Lom/;"	s	object:32
+text	docs/search.json	/^    "text": "2.3 The Importance of the Twenty Laws and Forty Isometries\\nThe Twenty Laws instru/;"	s	object:12
+text	docs/search.json	/^    "text": "2.4 The Need for the Convergence, Constraint and Irrelevance Lemmas\\nHowever there/;"	s	object:13
+text	docs/search.json	/^    "text": "2.5 Tabulation Array; Data Set Definitions 1\\n\\nThe Precinct Set and Principal In/;"	s	object:14
+text	docs/search.json	/^    "text": "2.6 Counting Group; S,T,U,V and Quantile Arrays; Data Set Definitions 2\\n\\nLocal /;"	s	object:15
+text	docs/search.json	/^    "text": "2.7 Ordinal, Percentage and Quantile Functions of an STUV Array\\n\\nThe Precinct O/;"	s	object:16
+text	docs/search.json	/^    "text": "2.8 Convergence, Constraint and Irrelevance Lemmas\\nNote: The final line in the be/;"	s	object:17
+text	docs/search.json	/^    "text": "2.9 The Hyperbolic Reflection Theorem\\nBefore we move on to the following chapters/;"	s	object:18
 text	docs/site_libs/clipboard/clipboard.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	variable:anonymousFunction664e00960200.n.686.b.anonymousObject664e00961705.value.anonymousObject664e00961805
 text	docs/site_libs/clipboard/clipboard.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	variable:anonymousFunction664e00960200.n.686.b.anonymousObject664e00961705.value.anonymousObject664e00961905
 text	docs/site_libs/quarto-search/quarto-search.js	/^        text: function (_trigger) {$/;"	m	variable:showCopyLink.anonymousObjecte10aba621e05
@@ -17090,19 +17128,19 @@ the-eight-problems-of-the-2020-election-of-trump-vs-biden-in-clark-and-washoe-co
 the-fair-election-of-2008-obama-vs-mccain-m-parallel-to-n	_book/index.html	/^<section id="the-fair-election-of-2008-obama-vs-mccain-m-parallel-to-n" class="level2" data-numb/;"	I
 the-fair-election-of-2008-obama-vs-mccain-m-parallel-to-n	docs/index.html	/^<section id="the-fair-election-of-2008-obama-vs-mccain-m-parallel-to-n" class="level2" data-numb/;"	I
 the-fair-election-of-2012-obama-vs-romney-xy-and-mn	_book/index.html	/^<section id="the-fair-election-of-2012-obama-vs-romney-xy-and-mn" class="level2" data-number="3./;"	I
-the-fair-election-of-2012-obama-vs-romney-xy-and-mn	docs/index.html	/^<section id="the-fair-election-of-2012-obama-vs-romney-xy-and-mn" class="level2" data-number="3./;"	I
+the-fair-election-of-2012-obama-vs-romney-xy-and-mn	docs/index.html	/^<section id="the-fair-election-of-2012-obama-vs-romney-xy-and-mn" class="level2" data-number="2./;"	I
 the-fair-election-of-2016-trump-vs-hillary-xy-and-mn	_book/index.html	/^<section id="the-fair-election-of-2016-trump-vs-hillary-xy-and-mn" class="level2" data-number="3/;"	I
-the-fair-election-of-2016-trump-vs-hillary-xy-and-mn	docs/index.html	/^<section id="the-fair-election-of-2016-trump-vs-hillary-xy-and-mn" class="level2" data-number="3/;"	I
+the-fair-election-of-2016-trump-vs-hillary-xy-and-mn	docs/index.html	/^<section id="the-fair-election-of-2016-trump-vs-hillary-xy-and-mn" class="level2" data-number="2/;"	I
 the-geometric-absurdity-of-constant-lambda-why-the-defense-cannot-assert-that-constant-lambda-is-not-unusual-in-a-safe-and-secure-election-and-why-lambda-is-called-the-obstacle-percentage	_book/index.html	/^<section id="the-geometric-absurdity-of-constant-lambda-why-the-defense-cannot-assert-that-const/;"	I
 the-geometric-absurdity-of-constant-lambda-why-the-defense-cannot-assert-that-constant-lambda-is-not-unusual-in-a-safe-and-secure-election-and-why-lambda-is-called-the-obstacle-percentage	docs/index.html	/^<section id="the-geometric-absurdity-of-constant-lambda-why-the-defense-cannot-assert-that-const/;"	I
 the-ghalpha-complex-number-manifold-that-rigged-trumpamodei-vs-bidenackermann-in-washoe-county	_book/index.html	/^<section id="the-ghalpha-complex-number-manifold-that-rigged-trumpamodei-vs-bidenackermann-in-wa/;"	I
 the-ghalpha-complex-number-manifold-that-rigged-trumpamodei-vs-bidenackermann-in-washoe-county	docs/index.html	/^<section id="the-ghalpha-complex-number-manifold-that-rigged-trumpamodei-vs-bidenackermann-in-wa/;"	I
 the-hyperbolic-reflection-theorem	_book/index.html	/^<section id="the-hyperbolic-reflection-theorem" class="level2" data-number="3.9">$/;"	I
-the-hyperbolic-reflection-theorem	docs/index.html	/^<section id="the-hyperbolic-reflection-theorem" class="level2" data-number="3.9">$/;"	I
+the-hyperbolic-reflection-theorem	docs/index.html	/^<section id="the-hyperbolic-reflection-theorem" class="level2" data-number="2.9">$/;"	I
 the-importance-of-the-twenty-laws-and-forty-isometries	_book/index.html	/^<section id="the-importance-of-the-twenty-laws-and-forty-isometries" class="level2" data-number=/;"	I
 the-importance-of-the-twenty-laws-and-forty-isometries	docs/index.html	/^<section id="the-importance-of-the-twenty-laws-and-forty-isometries" class="level2" data-number=/;"	I
 the-legal-futility-of-public-observation	_book/index.html	/^<section id="the-legal-futility-of-public-observation" class="level2" data-number="2.3">$/;"	I
-the-legal-futility-of-public-observation	docs/index.html	/^<section id="the-legal-futility-of-public-observation" class="level2" data-number="2.3">$/;"	I
+the-legal-futility-of-public-observation	docs/index.html	/^<section id="the-legal-futility-of-public-observation" class="level2" data-number="1.3">$/;"	I
 the-need-for-the-convergence-constraint-and-irrelevance-lemmas	_book/index.html	/^<section id="the-need-for-the-convergence-constraint-and-irrelevance-lemmas" class="level2" data/;"	I
 the-need-for-the-convergence-constraint-and-irrelevance-lemmas	docs/index.html	/^<section id="the-need-for-the-convergence-constraint-and-irrelevance-lemmas" class="level2" data/;"	I
 the-quaternionic-manifold-of-the-nevada-2022-general-election-that-allowed-lombardo-to-win-while-making-the-other-republicans-lose.	_book/index.html	/^<section id="the-quaternionic-manifold-of-the-nevada-2022-general-election-that-allowed-lombardo/;"	I
@@ -17110,16 +17148,17 @@ the-quaternionic-manifold-of-the-nevada-2022-general-election-that-allowed-lomba
 the-ratios-between-the-of-cardinalities-four-pairwise-disjoint-sets	_book/index.html	/^<section id="the-ratios-between-the-of-cardinalities-four-pairwise-disjoint-sets" class="level2"/;"	I
 the-ratios-between-the-of-cardinalities-four-pairwise-disjoint-sets	docs/index.html	/^<section id="the-ratios-between-the-of-cardinalities-four-pairwise-disjoint-sets" class="level2"/;"	I
 the-twenty-laws-and-forty-isometries	_book/index.html	/^<section id="the-twenty-laws-and-forty-isometries" class="level2" data-number="3.2">$/;"	I
-the-twenty-laws-and-forty-isometries	docs/index.html	/^<section id="the-twenty-laws-and-forty-isometries" class="level2" data-number="3.2">$/;"	I
+the-twenty-laws-and-forty-isometries	docs/index.html	/^<section id="the-twenty-laws-and-forty-isometries" class="level2" data-number="2.2">$/;"	I
 the-twenty-laws-and-forty-isometries-that-govern-the-proportion-between-four-disjoint-sets	_book/index.html	/^<section id="the-twenty-laws-and-forty-isometries-that-govern-the-proportion-between-four-disjoi/;"	I
 the-twenty-laws-and-forty-isometries-that-govern-the-proportion-between-four-disjoint-sets	docs/index.html	/^<section id="the-twenty-laws-and-forty-isometries-that-govern-the-proportion-between-four-disjoi/;"	I
 the-two-common-sense-assumptions	_book/index.html	/^<section id="the-two-common-sense-assumptions" class="level2" data-number="3.10">$/;"	I
-the-two-common-sense-assumptions	docs/index.html	/^<section id="the-two-common-sense-assumptions" class="level2" data-number="3.10">$/;"	I
+the-two-common-sense-assumptions	docs/index.html	/^<section id="the-two-common-sense-assumptions" class="level2" data-number="2.10">$/;"	I
 thead	_book/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 thead	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 theme	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.metadata
 theme	_book/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:A.anonymousObjecte826dc5f1105
 theme	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:A.anonymousObject9f68ba3e1105
+theorem	import/Clark and Washoe Counties, Chapter One, 2020 and 2022/000Main.tex	/^\\newtheorem{theorem}{Theorem}[section]$/;"	t
 threshold	_book/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	property:anonymousFunction807397e94100.te.e.options
 threshold	_book/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousFunction807397e93600.e.anonymousObject807397e93705
 threshold	_book/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousFunction807397e94100.G.n.anonymousObject807397e96405
@@ -17139,6 +17178,7 @@ throw	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeo
 title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s
 title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.metadata
 title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.metadata
+title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:markdown.yaml
 title	_book/search.json	/^    "title": "Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Neva/;"	s	object:0
 title	_book/search.json	/^    "title": "Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Neva/;"	s	object:1
 title	_book/search.json	/^    "title": "Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Neva/;"	s	object:10
@@ -17260,7 +17300,6 @@ toc-general-election-of-bush-vs-kerry-2004-fair-election-clark-and-washoe-xy-and
 toc-how-the-clark-washoe-and-atlanta-ga-election-defy-the-common-sense-assumption	_book/index.html	/^  <li><a href="#how-the-clark-washoe-and-atlanta-ga-election-defy-the-common-sense-assumption" i/;"	I
 toc-how-the-clark-washoe-and-atlanta-ga-election-defy-the-common-sense-assumption	docs/index.html	/^  <li><a href="#how-the-clark-washoe-and-atlanta-ga-election-defy-the-common-sense-assumption" i/;"	I
 toc-introduction	_book/index.html	/^  <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="/;"	I
-toc-introduction	docs/index.html	/^  <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="/;"	I
 toc-introduction-nevada-state-law-and-data-sources	_book/index.html	/^  <li><a href="#introduction-nevada-state-law-and-data-sources" id="toc-introduction-nevada-stat/;"	I
 toc-introduction-nevada-state-law-and-data-sources	docs/index.html	/^  <li><a href="#introduction-nevada-state-law-and-data-sources" id="toc-introduction-nevada-stat/;"	I
 toc-legal-definition-of-a-ballot-in-nevada	_book/index.html	/^  <li><a href="#legal-definition-of-a-ballot-in-nevada" id="toc-legal-definition-of-a-ballot-in-/;"	I
@@ -17767,7 +17806,7 @@ visibleItemObserver	docs/site_libs/quarto-html/quarto.js	/^  const visibleItemOb
 vn	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f
 vn	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f
 votes-are-computed-by-law-not-counted	_book/index.html	/^<section id="votes-are-computed-by-law-not-counted" class="level2" data-number="2.4">$/;"	I
-votes-are-computed-by-law-not-counted	docs/index.html	/^<section id="votes-are-computed-by-law-not-counted" class="level2" data-number="2.4">$/;"	I
+votes-are-computed-by-law-not-counted	docs/index.html	/^<section id="votes-are-computed-by-law-not-counted" class="level2" data-number="1.4">$/;"	I
 w	_book/site_libs/quarto-html/anchor.min.js	/^!function(A,e){"use strict";"function"==typeof define&&define.amd?define([],e):"object"==typeof /;"	f	function:anonymousFunctiondf1b23300200.anonymousFunctiondf1b23300300
 w	_book/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f	function:anonymousFunction0fcd626b0300.x
 w	_book/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	f
@@ -17789,7 +17828,7 @@ walk	docs/site_libs/quarto-html/quarto.js	/^  const walk = (el, depth) => {$/;"	
 warning	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.html.execute
 warning	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.pdf.execute
 washoe-county-2020-and-2022-tabulation-sources	_book/index.html	/^<section id="washoe-county-2020-and-2022-tabulation-sources" class="level2" data-number="2.9">$/;"	I
-washoe-county-2020-and-2022-tabulation-sources	docs/index.html	/^<section id="washoe-county-2020-and-2022-tabulation-sources" class="level2" data-number="2.9">$/;"	I
+washoe-county-2020-and-2022-tabulation-sources	docs/index.html	/^<section id="washoe-county-2020-and-2022-tabulation-sources" class="level2" data-number="1.9">$/;"	I
 we	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f	class:Qt
 we	_book/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	f	function:me.be
 we	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f
@@ -17941,6 +17980,7 @@ y	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==ty
 y	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	f	function:anonymousFunctionc1842a283b00
 y	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	f	function:t
 y	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	v	method:anonymousFunctionc1842a283600.anonymousObjectc1842a283a05.value
+yaml	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	o	object:markdown
 ye	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f	class:Qt
 ye	_book/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	f	function:me.be
 ye	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f	class:Qt

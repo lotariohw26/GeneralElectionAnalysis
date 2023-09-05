@@ -438,26 +438,127 @@ The High School Gymnasium Election Event
 <p>Let <strong>S,T,U,V</strong> be four pairwise disjoint sets, such that <span class="math inline">\(|S|,|T|,|U|,|V|\)</span> equal <span class="math inline">\(s,t,u,v\)</span> respectively. Each ratio has a conserved partner which makes it easier to write the Laws that follow. They are conserved since they sum to 1 or 100%, ie, <span class="math inline">\(1=x_{1}+x_{2}\)</span>).</p>
 <p>Each pair of lines in the below tables declares the written name of the ratio, as well as the quantitative definition.</p>
 </div>
-<div class="tblr">
-<p>|l|l|l|l| North Ratio &amp; South Ratio &amp; North Complement &amp; South Complement<br>
-<span class="math inline">\(x_{1}=\frac{s}{s+t}\)</span> &amp; <span class="math inline">\(y_{1}=\frac{u}{u+v}\)</span> &amp; <span class="math inline">\(x_{2}=(1-x_{1})=\frac{t}{s+t}\)</span> &amp; <span class="math inline">\(y_{2}=(1-y_{1})=\frac{v}{u+v}\)</span><br>
-West Ratio &amp; East Ratio &amp; West Complement &amp; East Complement<br>
-<span class="math inline">\(g_{1}=\frac{s}{s+v}\)</span> &amp; <span class="math inline">\(h_{1}=\frac{u}{u+t}\)</span> &amp; <span class="math inline">\(g_{2}=(1-g_{1})=\frac{v}{s+v}\)</span> &amp; <span class="math inline">\(h_{2}=(1-h_{1})=\frac{t}{u+t}\)</span><br>
-Northwest Ratio &amp; Northeast Ratio &amp; Southeast Ratio &amp; Southwest Ratio<br>
-<span class="math inline">\(m_{1}=\frac{s}{s+u}\)</span> &amp; <span class="math inline">\(n_{1}=\frac{t}{t+v}\)</span> &amp; <span class="math inline">\(m_{2}=(1-m_{1})=\frac{u}{s+u}\)</span> &amp; <span class="math inline">\(n_{2}=(1-n_{1})=\frac{v}{t+v}\)</span><br>
-Diagonal Aggregate &amp; Diagonal Proportion &amp; 1st Alpha Identity &amp; Xi Identity<br>
-<span class="math inline">\(\alpha_{1}=\frac{s+u}{(s+u)+(t+v)}\)</span> &amp; <span class="math inline">\(\xi=\frac{t+v}{s+u}\)</span> &amp; <span class="math inline">\(\alpha_{1}=(\xi+1)^{-1}\)</span> &amp; <span class="math inline">\(\xi=\frac{1-\alpha_{1}}{\alpha_{1}}=\frac{\alpha_{2}}{\alpha_{1}}\)</span><br>
-Diagonal Complement &amp; Diagonal Inverse &amp; 2nd Alpha Identity &amp; Inverse Xi Identity<br>
-<span class="math inline">\(\alpha_{2}=\frac{t+v}{(s+u)+(t+v)}\)</span> &amp; <span class="math inline">\(\xi^{-1}=\frac{s+u}{t+v}\)</span> &amp; <span class="math inline">\(\alpha_{2}=(\xi^{-1}+1)^{-1}\)</span> &amp; <span class="math inline">\(\xi^{-1}=\frac{1-\alpha_{2}}{\alpha_{2}}=\frac{\alpha_{1}}{\alpha_{2}}\)</span><br>
-West Aggregate &amp; East to West Proportion &amp; 1st Lambda Identity &amp; Gamma Identity<br>
-<span class="math inline">\(\lambda_{1}=\frac{s+v}{(s+v)+(u+t)}\)</span> &amp; <span class="math inline">\(\gamma=\frac{u+t}{s+v}\)</span> &amp; <span class="math inline">\(\lambda_{1}=(\gamma+1)^{-1}\)</span> &amp; <span class="math inline">\(\gamma=\frac{1-\lambda_{1}}{\lambda_{1}}=\frac{\lambda_{2}}{\lambda_{1}}\)</span><br>
-East Aggregate &amp; West to East Proportion &amp; 2nd Lambda Identity &amp; Inverse Gamma Identity<br>
-<span class="math inline">\(\lambda_{2}=\frac{u+t}{(s+v)+(u+t)}\)</span> &amp; <span class="math inline">\(\gamma^{-1}=\frac{s+v}{u+t}\)</span> &amp; <span class="math inline">\(\lambda_{2}=(\gamma^{-1}+1)^{-1}\)</span> &amp; <span class="math inline">\(\gamma^{-1}=\frac{1-\lambda_{2}}{\lambda_{2}}=\frac{\lambda_{1}}{\lambda_{2}}\)</span><br>
-North Aggregate &amp; South to North Proportion &amp; 1st Omega Identity &amp; Zeta Identity<br>
-<span class="math inline">\(\Omega_{1}=\frac{s+t}{(s+t)+(u+v)}\)</span> &amp; <span class="math inline">\(\zeta=\frac{u+v}{s+t}\)</span> &amp; <span class="math inline">\(\Omega_{1}=(\zeta+1)^{-1}\)</span> &amp; <span class="math inline">\(\zeta=\frac{1-\Omega_{1}}{\Omega_{1}}=\frac{\Omega_{2}}{\Omega_{1}}\)</span><br>
-South Aggregate &amp; North to South Proportion &amp; 2nd Omega Identity &amp; Inverse Zeta Identity<br>
-<span class="math inline">\(\Omega_{2}=\frac{u+v}{(s+t)+(u+v)}\)</span> &amp; <span class="math inline">\(\zeta^{-1}=\frac{s+t}{u+v}\)</span> &amp; <span class="math inline">\(\Omega_{2}=(\zeta^{-1}+1)^{-1}\)</span> &amp; <span class="math inline">\(\zeta^{-1}=\frac{1-\Omega_{2}}{\Omega_{2}}=\frac{\Omega_{1}}{\Omega_{2}}\)</span><br>
-</p>
+<div class="cell">
+<div class="cell-output-display">
+<table class="table table-sm table-striped small">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 16%">
+<col style="width: 19%">
+<col style="width: 43%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">North Ratio</td>
+<td style="text-align: left;">South Ratio</td>
+<td style="text-align: left;">North Complement</td>
+<td style="text-align: left;">South Complement</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><span class="math inline">\(x_{1} = \frac{s}{s+t}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(y_{1} = \frac{u}{u+v}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(x_{2} = (1-x_{1}) = \frac{t}{s+t}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(y_{2} = (1-y_{1}) = \frac{v}{u+v}\)</span></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">West Ratio</td>
+<td style="text-align: left;">East Ratio</td>
+<td style="text-align: left;">West Complement</td>
+<td style="text-align: left;">East Complement</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><span class="math inline">\(g_{1} = \frac{s}{s+v}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(h_{1} = \frac{u}{u+t}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(g_{2} = (1-g_{1}) = \frac{v}{s+v}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(h_{2} = (1-h_{1}) = \frac{t}{u+t}\)</span></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Northwest Ratio</td>
+<td style="text-align: left;">Northeast Ratio</td>
+<td style="text-align: left;">Southeast Ratio</td>
+<td style="text-align: left;">Southwest Ratio</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><span class="math inline">\(m_{1} = \frac{s}{s+u}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(n_{1} = \frac{t}{t+v}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(m_{2} = (1-m_{1}) = \frac{u}{s+u}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(n_{2} = (1-n_{1}) = \frac{v}{t+v}\)</span></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Diagonal Aggregate</td>
+<td style="text-align: left;">Diagonal Proportion</td>
+<td style="text-align: left;">1st Alpha Identity</td>
+<td style="text-align: left;">Xi Identity</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><span class="math inline">\(\alpha_{1} = \frac{s+u}{(s+u)+(t+v)}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(\xi = \frac{t+v}{s+u}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(\alpha_{1} = (\xi+1)^{-1}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(\xi = \frac{1-\alpha_{1}}{\alpha_{1}} = \frac{\alpha_{2}}{\alpha_{1}}\)</span></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Diagonal Complement</td>
+<td style="text-align: left;">Diagonal Inverse</td>
+<td style="text-align: left;">2nd Alpha Identity</td>
+<td style="text-align: left;">Inverse Xi Identity</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><span class="math inline">\(\alpha_{2} = \frac{t+v}{(s+u)+(t+v)}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(\xi^{-1} = \frac{s+u}{t+v}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(\alpha_{2} = (\xi^{-1}+1)^{-1}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(\xi^{-1} = \frac{1-\alpha_{2}}{\alpha_{2}} = \frac{\alpha_{1}}{\alpha_{2}}\)</span></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">West Aggregate</td>
+<td style="text-align: left;">East to West Proportion</td>
+<td style="text-align: left;">1st Lambda Identity</td>
+<td style="text-align: left;">Gamma Identity</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><span class="math inline">\(\lambda_{1} = \frac{s+v}{(s+v)+(u+t)}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(\gamma = \frac{u+t}{s+v}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(\lambda_{1} = (\gamma+1)^{-1}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(\gamma = \frac{1-\lambda_{1}}{\lambda_{1}} = \frac{\lambda_{2}}{\lambda_{1}}\)</span></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">East Aggregate</td>
+<td style="text-align: left;">West to East Proportion</td>
+<td style="text-align: left;">2nd Lambda Identity</td>
+<td style="text-align: left;">Inverse Gamma Identity</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><span class="math inline">\(\lambda_{2} = \frac{u+t}{(s+v)+(u+t)}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(\gamma^{-1} = \frac{s+v}{u+t}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(\lambda_{2} = (\gamma^{-1}+1)^{-1}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(\gamma^{-1} = \frac{1-\lambda_{2}}{\lambda_{2}} = \frac{\lambda_{1}}{\lambda_{2}}\)</span></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">North Aggregate</td>
+<td style="text-align: left;">South to North Proportion</td>
+<td style="text-align: left;">1st Omega Identity</td>
+<td style="text-align: left;">Zeta Identity</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><span class="math inline">\(\Omega_{1} = \frac{s+t}{(s+t)+(u+v)}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(\zeta = \frac{u+v}{s+t}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(\Omega_{1} = (\zeta+1)^{-1}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(\zeta = \frac{1-\Omega_{1}}{\Omega_{1}} = \frac{\Omega_{2}}{\Omega_{1}}\)</span></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">South Aggregate</td>
+<td style="text-align: left;">North to South Proportion</td>
+<td style="text-align: left;">2nd Omega Identity</td>
+<td style="text-align: left;">Inverse Zeta Identity</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><span class="math inline">\(\Omega_{2} = \frac{u+v}{(s+t)+(u+v)}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(\zeta^{-1} = \frac{s+t}{u+v}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(\Omega_{2} = (\zeta^{-1}+1)^{-1}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(\zeta^{-1} = \frac{1-\Omega_{2}}{\Omega_{2}} = \frac{\Omega_{1}}{\Omega_{2}}\)</span></td>
+</tr>
+</tbody>
+</table>
+</div>
 </div>
 </section>
 <section id="the-twenty-laws-and-forty-isometries" class="level2" data-number="2.2">
@@ -465,29 +566,147 @@ South Aggregate &amp; North to South Proportion &amp; 2nd Omega Identity &amp; I
 <div class="definition">
 
 </div>
-<div class="tblr">
-<p>|l|l|l|l| Law Number &amp; North vs South &amp; West vs East &amp; Diagonal vs Diagonal<br>
-First Law &amp; <span class="math inline">\(x_{1}=\alpha_{1}+\zeta(\alpha_{1}-y_{1})\)</span> &amp; <span class="math inline">\(g_{1}=\alpha_{1}+\gamma(\alpha_{1}-h_{1})\)</span> &amp; <span class="math inline">\(m_{1}=\Omega_{1}+\xi(\Omega_{1}-n_{1})\)</span><br>
-Second Law &amp; <span class="math inline">\(x_{1}=\lambda_{1}+\zeta(\lambda_{1}-y_{2})\)</span> &amp; <span class="math inline">\(g_{1}=\Omega_{1}+\gamma(\Omega_{1}-h_{2})\)</span> &amp; <span class="math inline">\(m_{1}=\lambda_{1}+\xi(\lambda_{1}-n_{2})\)</span><br>
-Third Law &amp; <span class="math inline">\(x_{1}=\frac{\alpha_{1}y_{2}-\lambda_{1}y_{1}}{(\alpha_{1}-\lambda_{1})-(y_{1}-y_{2})}\)</span> &amp; <span class="math inline">\(g_{1}=\frac{\alpha_{1}h_{2}-\Omega_{1}h_{1}}{(\alpha_{1}-\Omega_{1})-(h_{1}-h_{2})}\)</span> &amp; <span class="math inline">\(m_{1}=\frac{\Omega_{1}n_{2}-\lambda_{1}n_{1}}{(\Omega_{1}-\lambda_{1})-(n_{1}-n_{2})}\)</span><br>
-Fourth Law &amp; <span class="math inline">\(x_{1}=\frac{\lambda_{1}+\alpha_{1}-\Omega_{2}}{2\Omega_{1}}\)</span> &amp; <span class="math inline">\(g_{1}=\frac{\Omega_{1}+\alpha_{1}-\lambda_{2}}{2\lambda_{1}}\)</span> &amp; <span class="math inline">\(m_{1}=\frac{\lambda_{1}+\Omega_{1}-\alpha_{2}}{2\alpha_{1}}\)</span><br>
-Fifth Law &amp; <span class="math inline">\(y_{1}=\alpha_{1}-\zeta^{-1}(\alpha_{1}-x_{1})\)</span> &amp; <span class="math inline">\(h_{1}=\alpha_{1}-\gamma^{-1}(\alpha_{1}-g_{1})\)</span> &amp; <span class="math inline">\(n_{1}=\Omega_{1}-\xi^{-1}(\Omega_{1}-m_{1})\)</span><br>
-Sixth Law &amp; <span class="math inline">\(y_{1}=\lambda_{2}-\zeta^{-1}(\lambda_{1}-x_{1})\)</span> &amp; <span class="math inline">\(h_{1}=\Omega_{2}-\gamma^{-1}(\Omega_{1}-g_{1})\)</span> &amp; <span class="math inline">\(n_{1}=\lambda_{2}-\xi^{-1}(\lambda_{1}-m_{1})\)</span><br>
-Seventh Law &amp; <span class="math inline">\(y_{1}=\frac{x_{1}\lambda_{2}-x_{2}\alpha_{1}}{(\lambda_{2}-\alpha_{1})-(x_{2}-x_{1})}\)</span> &amp; <span class="math inline">\(h_{1}=\frac{g_{1}\Omega_{2}-g_{2}\alpha_{1}}{(\Omega_{2}-\alpha_{1})-(g_{2}-g_{1})}\)</span> &amp; <span class="math inline">\(n_{1}=\frac{m_{1}\lambda_{2}-m_{2}\Omega_{1}}{(\lambda_{2}-\Omega_{1})-(m_{2}-m_{1})}\)</span><br>
-Eighth Law &amp; <span class="math inline">\(y_{1}=\frac{\lambda_{2}+\alpha_{1}-\Omega_{1}}{2\Omega_{2}}\)</span> &amp; <span class="math inline">\(h_{1}=\frac{\Omega_{2}+\alpha_{1}-\lambda_{1}}{2\lambda_{2}}\)</span> &amp; <span class="math inline">\(n_{1}=\frac{\lambda_{2}+\Omega_{1}-\alpha_{1}}{2\alpha_{2}}\)</span><br>
-Ninth Law &amp; <span class="math inline">\(\alpha_{1}=x_{1}\Omega_{1}+\Omega_{2}y_{1}\)</span> &amp; <span class="math inline">\(\alpha_{1}=g_{1}\lambda_{1}+\lambda_{2}h_{1}\)</span> &amp; <span class="math inline">\(\Omega_{1}=m_{1}\alpha_{1}+\alpha_{2}n_{1}\)</span><br>
-Tenth Law &amp; <span class="math inline">\(\alpha_{1}=\Omega_{1}(x_{1}-x_{2})+\lambda_{2}\)</span> &amp; <span class="math inline">\(\alpha_{1}=\lambda_{1}(g_{1}-g_{2})+\Omega_{2}\)</span> &amp; <span class="math inline">\(\Omega_{1}=\alpha_{1}(m_{1}-m_{2})+\lambda_{2}\)</span><br>
-Eleventh Law &amp; <span class="math inline">\(\alpha_{1}=\Omega_{2}(y_{1}-y_{2})+\lambda_{1}\)</span> &amp; <span class="math inline">\(\alpha_{1}=\lambda_{2}(h_{1}-h_{2})+\Omega_{1}\)</span> &amp; <span class="math inline">\(\Omega_{1}=\alpha_{2}(n_{1}-n_{2})+\lambda_{1}\)</span><br>
-Twelfth Law &amp; <span class="math inline">\(\alpha_{1}=\frac{x_{1}(y_{2}-y_{1})-\lambda_{1}(x_{1}-y_{1})}{y_{2}-x_{1}}\)</span> &amp; <span class="math inline">\(\alpha_{1}=\frac{g_{1}(h_{2}-h_{1})-\Omega_{1}(g_{1}-h_{1})}{h_{2}-g_{1}}\)</span> &amp; <span class="math inline">\(\Omega_{1}=\frac{m_{1}(n_{2}-n_{1})-\lambda_{1}(m_{1}-n_{1})}{n_{2}-m_{1}}\)</span><br>
-Thirteenth Law &amp; <span class="math inline">\(\lambda_{1}=x_{1}\Omega_{1}+\Omega_{2}y_{2}\)</span> &amp; <span class="math inline">\(\Omega_{1}=g_{1}\lambda_{1}+\lambda_{2}h_{2}\)</span> &amp; <span class="math inline">\(\lambda_{1}=m_{1}\alpha_{1}+\alpha_{2}n_{2}\)</span><br>
-Fourteenth Law &amp; <span class="math inline">\(\lambda_{1}=\Omega_{1}(x_{1}-x_{2})+\alpha_{2}\)</span> &amp; <span class="math inline">\(\Omega_{1}=\lambda_{1}(g_{1}-g_{2})+\alpha_{2}\)</span> &amp; <span class="math inline">\(\lambda_{1}=\alpha_{1}(m_{1}-m_{2})+\Omega_{2}\)</span><br>
-Fifteenth Law &amp; <span class="math inline">\(\lambda_{1}=\frac{\alpha_{1}(x_{1}-y_{2})-x_{1}(y_{1}-y_{2})}{x_{1}-y_{1}}\)</span> &amp; <span class="math inline">\(\Omega_{1}=\frac{\alpha_{1}(g_{1}-h_{2})-g_{1}(h_{1}-h_{2})}{g_{1}-h_{1}}\)</span> &amp; <span class="math inline">\(\lambda_{1}=\frac{\Omega_{1}(m_{1}-n_{2})-m_{1}(n_{1}-n_{2})}{m_{1}-n_{1}}\)</span><br>
-Sixteenth Law &amp; <span class="math inline">\(\lambda_{1}=\Omega_{2}(y_{2}-y_{1})+\alpha_{1}\)</span> &amp; <span class="math inline">\(\Omega_{1}=\lambda_{2}(h_{2}-h_{1})+\alpha_{1}\)</span> &amp; <span class="math inline">\(\lambda_{1}=\alpha_{2}(n_{2}-n_{1})+\Omega_{1}\)</span><br>
-Seventeenth Law &amp; <span class="math inline">\(\zeta=\frac{x_{1}-\alpha_{1}}{\alpha_{1}-y_{1}};\Omega_{1}=\frac{y_{1}-\alpha_{1}}{y_{1}-x_{1}}\)</span> &amp; <span class="math inline">\(\gamma=\frac{g_{1}-\alpha_{1}}{\alpha_{1}-h_{1}};\lambda_{1}=\frac{h_{1}-\alpha_{1}}{h_{1}-g_{1}}\)</span> &amp; <span class="math inline">\(\xi=\frac{m_{1}-\Omega_{1}}{\Omega_{1}-n_{1}};\alpha_{1}=\frac{n_{1}-\Omega_{1}}{n_{1}-m_{1}}\)</span><br>
-Eighteenth Law &amp; <span class="math inline">\(\Omega_{1}=\frac{\lambda_{2}-\alpha_{1}}{x_{2}-x_{1}}=\frac{\alpha_{2}-\lambda_{1}}{x_{2}-x_{1}}\)</span> &amp; <span class="math inline">\(\gamma_{1}=\frac{\Omega_{2}-\alpha_{1}}{g_{2}-g_{1}}=\frac{\alpha_{2}-\Omega_{1}}{g_{2}-g_{1}}\)</span> &amp; <span class="math inline">\(\alpha_{1}=\frac{\lambda_{2}-\Omega_{1}}{m_{2}-m_{1}}=\frac{\Omega_{2}-\lambda_{1}}{m_{2}-m_{1}}\)</span><br>
-Nineteenth Law &amp; <span class="math inline">\(\zeta=\frac{x_{1}-\lambda_{1}}{\lambda_{1}-y_{2}}; \Omega_{1}=\frac{y_{2}-\lambda_{1}}{y_{2}-x_{1}}\)</span> &amp; <span class="math inline">\(\gamma=\frac{g_{1}-\Omega_{1}}{\Omega_{1}-h_{2}}; \lambda_{1}=\frac{h_{2}-\Omega_{1}}{h_{2}-g_{1}}\)</span> &amp; <span class="math inline">\(\xi=\frac{m_{1}-\lambda_{1}}{\lambda_{1}-n_{2}}; \alpha_{1}=\frac{n_{2}-\lambda_{1}}{n_{2}-m_{1}}\)</span><br>
-Twentieth Law &amp; <span class="math inline">\(\zeta=\frac{\lambda_{1}-\alpha_{1}}{(y_{2}-y_{1})+(\alpha_{1}-\lambda_{1})}\)</span> &amp; <span class="math inline">\(\gamma=\frac{\Omega_{1}-\alpha_{1}}{(h_{2}-h_{1})+(\alpha_{1}-\Omega_{1})}\)</span> &amp; <span class="math inline">\(\xi=\frac{\lambda_{1}-\Omega_{1}}{(n_{2}-n_{1})+(\Omega_{1}-\lambda_{1})}\)</span><br>
-</p>
+<div class="cell">
+<div class="cell-output-display">
+<table class="table table-sm table-striped small">
+<colgroup>
+<col style="width: 5%">
+<col style="width: 31%">
+<col style="width: 31%">
+<col style="width: 31%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Law_Number</th>
+<th style="text-align: left;">North_vs_South</th>
+<th style="text-align: left;">West_vs_East</th>
+<th style="text-align: left;">Diagonal_vs_Diagonal</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">First Law</td>
+<td style="text-align: left;"><span class="math inline">\(x_{1}=\alpha_{1}+\zeta(\alpha_{1}-y_{1})\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(g_{1}=\alpha_{1}+\gamma(\alpha_{1}-h_{1})\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(m_{1}=\Omega_{1}+\xi(\Omega_{1}-n_{1})\)</span></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Second Law</td>
+<td style="text-align: left;"><span class="math inline">\(x_{1}=\lambda_{1}+\zeta(\lambda_{1}-y_{2})\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(g_{1}=\Omega_{1}+\gamma(\Omega_{1}-h_{2})\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(m_{1}=\lambda_{1}+\xi(\lambda_{1}-n_{2})\)</span></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Third Law</td>
+<td style="text-align: left;"><span class="math inline">\(x_{1}=\frac{\alpha_{1}y_{2}-\lambda_{1}y_{1}}{(\alpha_{1}-\lambda_{1})-(y_{1}-y_{2})}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(g_{1}=\frac{\alpha_{1}h_{2}-\Omega_{1}h_{1}}{(\alpha_{1}-\Omega_{1})-(h_{1}-h_{2})}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(m_{1}=\frac{\Omega_{1}n_{2}-\lambda_{1}n_{1}}{(\Omega_{1}-\lambda_{1})-(n_{1}-n_{2})}\)</span></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Fourth Law</td>
+<td style="text-align: left;"><span class="math inline">\(x_{1}=\frac{\lambda_{1}+\alpha_{1}-\Omega_{2}}{2\Omega_{1}}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(g_{1}=\frac{\Omega_{1}+\alpha_{1}-\lambda_{2}}{2\lambda_{1}}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(m_{1}=\frac{\lambda_{1}+\Omega_{1}-\alpha_{2}}{2\alpha_{1}}\)</span></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Fifth Law</td>
+<td style="text-align: left;"><span class="math inline">\(y_{1}=\alpha_{1}-\zeta^{-1}(\alpha_{1}-x_{1})\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(h_{1}=\alpha_{1}-\gamma^{-1}(\alpha_{1}-g_{1})\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(n_{1}=\Omega_{1}-\xi^{-1}(\Omega_{1}-m_{1})\)</span></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Sixth Law</td>
+<td style="text-align: left;"><span class="math inline">\(y_{1}=\lambda_{2}-\zeta^{-1}(\lambda_{1}-x_{1})\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(h_{1}=\Omega_{2}-\gamma^{-1}(\Omega_{1}-g_{1})\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(n_{1}=\lambda_{2}-\xi^{-1}(\lambda_{1}-m_{1})\)</span></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Seventh Law</td>
+<td style="text-align: left;"><span class="math inline">\(y_{1}=\frac{x_{1}\lambda_{2}-x_{2}\alpha_{1}}{(\lambda_{2}-\alpha_{1})-(x_{2}-x_{1})}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(h_{1}=\frac{g_{1}\Omega_{2}-g_{2}\alpha_{1}}{(\Omega_{2}-\alpha_{1})-(g_{2}-g_{1})}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(n_{1}=\frac{m_{1}\lambda_{2}-m_{2}\Omega_{1}}{(\lambda_{2}-\Omega_{1})-(m_{2}-m_{1})}\)</span></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Eighth Law</td>
+<td style="text-align: left;"><span class="math inline">\(y_{1}=\frac{\lambda_{2}+\alpha_{1}-\Omega_{1}}{2\Omega_{2}}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(h_{1}=\frac{\Omega_{2}+\alpha_{1}-\lambda_{1}}{2\lambda_{2}}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(n_{1}=\frac{\lambda_{2}+\Omega_{1}-\alpha_{1}}{2\alpha_{2}}\)</span></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Ninth Law</td>
+<td style="text-align: left;"><span class="math inline">\(\alpha_{1}=x_{1}\Omega_{1}+\Omega_{2}y_{1}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(\alpha_{1}=g_{1}\lambda_{1}+\lambda_{2}h_{1}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(\Omega_{1}=m_{1}\alpha_{1}+\alpha_{2}n_{1}\)</span></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Tenth Law</td>
+<td style="text-align: left;"><span class="math inline">\(\alpha_{1}=\Omega_{1}(x_{1}-x_{2})+\lambda_{2}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(\alpha_{1}=\lambda_{1}(g_{1}-g_{2})+\Omega_{2}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(\Omega_{1}=\alpha_{1}(m_{1}-m_{2})+\lambda_{2}\)</span></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Eleventh Law</td>
+<td style="text-align: left;"><span class="math inline">\(\alpha_{1}=\Omega_{2}(y_{1}-y_{2})+\lambda_{1}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(\alpha_{1}=\lambda_{2}(h_{1}-h_{2})+\Omega_{1}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(\Omega_{1}=\alpha_{2}(n_{1}-n_{2})+\lambda_{1}\)</span></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Twelfth Law</td>
+<td style="text-align: left;"><span class="math inline">\(\alpha_{1}=\frac{x_{1}(y_{2}-y_{1})-\lambda_{1}(x_{1}-y_{1})}{y_{2}-x_{1}}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(\alpha_{1}=\frac{g_{1}(h_{2}-h_{1})-\Omega_{1}(g_{1}-h_{1})}{h_{2}-g_{1}}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(\Omega_{1}=\frac{m_{1}(n_{2}-n_{1})-\lambda_{1}(m_{1}-n_{1})}{n_{2}-m_{1}}\)</span></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Thirteenth Law</td>
+<td style="text-align: left;"><span class="math inline">\(\lambda_{1}=x_{1}\Omega_{1}+\Omega_{2}y_{2}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(\Omega_{1}=g_{1}\lambda_{1}+\lambda_{2}h_{2}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(\lambda_{1}=m_{1}\alpha_{1}+\alpha_{2}n_{2}\)</span></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Fourteenth Law</td>
+<td style="text-align: left;"><span class="math inline">\(\lambda_{1}=\Omega_{1}(x_{1}-x_{2})+\alpha_{2}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(\Omega_{1}=\lambda_{1}(g_{1}-g_{2})+\alpha_{2}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(\lambda_{1}=\alpha_{1}(m_{1}-m_{2})+\Omega_{2}\)</span></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Fifteenth Law</td>
+<td style="text-align: left;"><span class="math inline">\(\lambda_{1}=\frac{\alpha_{1}(x_{1}-y_{2})-x_{1}(y_{1}-y_{2})}{x_{1}-y_{1}}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(\Omega_{1}=\frac{\alpha_{1}(g_{1}-h_{2})-g_{1}(h_{1}-h_{2})}{g_{1}-h_{1}}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(\lambda_{1}=\frac{\Omega_{1}(m_{1}-n_{2})-m_{1}(n_{1}-n_{2})}{m_{1}-n_{1}}\)</span></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Sixteenth Law</td>
+<td style="text-align: left;"><span class="math inline">\(\lambda_{1}=\Omega_{2}(y_{2}-y_{1})+\alpha_{1}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(\Omega_{1}=\lambda_{2}(h_{2}-h_{1})+\alpha_{1}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(\lambda_{1}=\alpha_{2}(n_{2}-n_{1})+\Omega_{1}\)</span></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Seventeenth Law</td>
+<td style="text-align: left;"><span class="math inline">\(\zeta=\frac{x_{1}-\alpha_{1}}{\alpha_{1}-y_{1}};\Omega_{1}=\frac{y_{1}-\alpha_{1}}{y_{1}-x_{1}}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(\gamma=\frac{g_{1}-\alpha_{1}}{\alpha_{1}-h_{1}};\lambda_{1}=\frac{h_{1}-\alpha_{1}}{h_{1}-g_{1}}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(\xi=\frac{m_{1}-\Omega_{1}}{\Omega_{1}-n_{1}};\alpha_{1}=\frac{n_{1}-\Omega_{1}}{n_{1}-m_{1}}\)</span></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Eighteenth Law</td>
+<td style="text-align: left;"><span class="math inline">\(\Omega_{1}=\frac{\lambda_{2}-\alpha_{1}}{x_{2}-x_{1}}=\frac{\alpha_{2}-\lambda_{1}}{x_{2}-x_{1}}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(\gamma_{1}=\frac{\Omega_{2}-\alpha_{1}}{g_{2}-g_{1}}=\frac{\alpha_{2}-\Omega_{1}}{g_{2}-g_{1}}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(\alpha_{1}=\frac{\lambda_{2}-\Omega_{1}}{m_{2}-m_{1}}=\frac{\Omega_{2}-\lambda_{1}}{m_{2}-m_{1}}\)</span></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Nineteenth Law</td>
+<td style="text-align: left;"><span class="math inline">\(\zeta=\frac{x_{1}-\lambda_{1}}{\lambda_{1}-y_{2}}; \Omega_{1}=\frac{y_{2}-\lambda_{1}}{y_{2}-x_{1}}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(\gamma=\frac{g_{1}-\Omega_{1}}{\Omega_{1}-h_{2}}; \lambda_{1}=\frac{h_{2}-\Omega_{1}}{h_{2}-g_{1}}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(\xi=\frac{m_{1}-\lambda_{1}}{\lambda_{1}-n_{2}}; \alpha_{1}=\frac{n_{2}-\lambda_{1}}{n_{2}-m_{1}}\)</span></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Twentieth Law</td>
+<td style="text-align: left;"><span class="math inline">\(\zeta=\frac{\lambda_{1}-\alpha_{1}}{(y_{2}-y_{1})+(\alpha_{1}-\lambda_{1})}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(\gamma=\frac{\Omega_{1}-\alpha_{1}}{(h_{2}-h_{1})+(\alpha_{1}-\Omega_{1})}\)</span></td>
+<td style="text-align: left;"><span class="math inline">\(\xi=\frac{\lambda_{1}-\Omega_{1}}{(n_{2}-n_{1})+(\Omega_{1}-\lambda_{1})}\)</span></td>
+</tr>
+</tbody>
+</table>
+</div>
 </div>
 <p>In the next figure we see the Diagonal vs Diagonal Orientation. For elections we call this the Preference Orientation, assuming that either diagonal contains ballots for the same candidate.</p>
 <p>The Republican Preference Percentage is the ratio of Republican Early ballots to all Republican ballots cast, that is which percentage of Republicans preferred to vote Early at the precinct, and is given by <span class="math inline">\(m_{1}=\frac{s}{s+u}\)</span>. whereas its complement is the percentage of Republicans that preferred to vote by mail.</p>
