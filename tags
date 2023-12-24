@@ -89,7 +89,7 @@
 !_TAG_PARSER_VERSION!Tex	0.0	/current.age/
 !_TAG_PARSER_VERSION!Yaml	0.0	/current.age/
 !_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
-!_TAG_PROC_CWD	/home/joernih/books/GeneralElectionAnalysis/	//
+!_TAG_PROC_CWD	/home/joernih/research/ManifoldDestiny/MD_BOOK1/	//
 !_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
@@ -8765,15 +8765,8 @@ $t	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==t
 .zindex-modal	docs/site_libs/bootstrap/bootstrap.min.css	/^*\/.ansi-black-fg{color:#3e424d}.ansi-black-bg{background-color:#3e424d}.ansi-black-intense-fg{c/;"	c
 .zindex-over-content	_book/site_libs/bootstrap/bootstrap.min.css	/^*\/.ansi-black-fg{color:#3e424d}.ansi-black-bg{background-color:#3e424d}.ansi-black-intense-fg{c/;"	c
 .zindex-over-content	docs/site_libs/bootstrap/bootstrap.min.css	/^*\/.ansi-black-fg{color:#3e424d}.ansi-black-bg{background-color:#3e424d}.ansi-black-intense-fg{c/;"	c
-0	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	array:formats.html.metadata.author
-0	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	array:formats.html.metadata.bibliography
-0	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	array:formats.pdf.metadata.author
-0	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	array:formats.pdf.metadata.bibliography
-0	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	array:markdown.yaml.author
-0	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	array:projectFormats
 0	_book/search.json	/^  {$/;"	o
 0	docs/search.json	/^  {$/;"	o
-1	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	array:projectFormats
 1	_book/search.json	/^  {$/;"	o
 1	docs/search.json	/^  {$/;"	o
 1 Introduction	_book/index.html	/^<h1 data-number="1"><span class="header-section-number">1<\/span> Introduction<\/h1>$/;"	h
@@ -9575,9 +9568,6 @@ abbr[data-bs-original-title]	_book/site_libs/bootstrap/bootstrap.min.css	/^ *\/@
 abbr[data-bs-original-title]	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 abbr[title]	_book/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 abbr[title]	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
-abstract	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.metadata
-abstract	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.metadata
-abstract	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:markdown.yaml
 action	_book/site_libs/clipboard/clipboard.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	variable:anonymousFunction032b26770200.n.686.b.anonymousObject032b26771705.value.anonymousObject032b26771805
 action	_book/site_libs/clipboard/clipboard.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	variable:anonymousFunction032b26770200.n.686.b.anonymousObject032b26771705.value.anonymousObject032b26771905
 action	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousObjectfc36ec2aa705
@@ -11882,10 +11872,6 @@ appId	_book/site_libs/quarto-search/quarto-search.js	/^          appId,$/;"	M	va
 appId	docs/site_libs/quarto-search/quarto-search.js	/^          appId,$/;"	M	variable:
 appendTo	_book/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:A.anonymousObjecte826dc5f0f05
 appendTo	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:A.anonymousObject9f68ba3e0f05
-appendix-attribution-bibtex	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-appendix-attribution-bibtex	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-appendix-attribution-cite-as	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-appendix-attribution-cite-as	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
 applyStyles	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObjectf392eb13a705
 applyStyles	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c532a705
 area	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	property:anonymousObjectf392eb13ce05.allowList
@@ -11940,9 +11926,6 @@ attributes	_book/site_libs/quarto-nav/quarto-nav.js	/^      attributes: true,$/;
 attributes	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:We.anonymousFunction56b5c5328900.a
 attributes	docs/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunction50ddf4aa0300.x.K.anonymousFunction50ddf4aa1b00.f
 attributes	docs/site_libs/quarto-nav/quarto-nav.js	/^      attributes: true,$/;"	p	variable:anonymousObject7a70b4600a05
-author	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	a	object:formats.html.metadata
-author	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	a	object:formats.pdf.metadata
-author	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	a	object:markdown.yaml
 auto	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObjectf392eb13a705
 auto	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c532a705
 autoCapitalize	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:Ee.anonymousObjectfc36ec2aaf05
@@ -11995,8 +11978,6 @@ b	docs/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeof exp
 b	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	f
 b	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	f	function:anonymousFunctionc1842a283600.e
 b	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	f	function:t.k
-back-to-top	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-back-to-top	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
 backdrop	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObjectf392eb13ba05
 backdrop	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObjectf392eb13bb05
 backdrop	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObjectf392eb13c305
@@ -12007,8 +11988,6 @@ backdrop	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==ty
 backdrop	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c532c405
 bard-and-chatgpts-verdict-on-the-two-common-sense-assumptions	_book/index.html	/^<section id="bard-and-chatgpts-verdict-on-the-two-common-sense-assumptions" class="level2" data-/;"	I
 bard-and-chatgpts-verdict-on-the-two-common-sense-assumptions	docs/index.html	/^<section id="bard-and-chatgpts-verdict-on-the-two-common-sense-assumptions" class="level2" data-/;"	I
-base-format	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.identifier
-base-format	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.identifier
 basePlacements	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObjectf392eb13a705
 basePlacements	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c532a705
 be	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f	class:Qt
@@ -12021,9 +12000,6 @@ beforeRead	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"=
 beforeRead	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c532a705
 beforeWrite	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObjectf392eb13a705
 beforeWrite	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c532a705
-bibliography	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	a	object:formats.html.metadata
-bibliography	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	a	object:formats.pdf.metadata
-block-headings	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.pdf.metadata
 blockquote	_book/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 blockquote	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 blockquote ol:last-child	_book/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
@@ -12044,8 +12020,6 @@ body.floating .sidebar.sidebar-navigation	_book/site_libs/bootstrap/bootstrap.mi
 body.floating .sidebar.sidebar-navigation	docs/site_libs/bootstrap/bootstrap.min.css	/^*\/.ansi-black-fg{color:#3e424d}.ansi-black-bg{background-color:#3e424d}.ansi-black-intense-fg{c/;"	c
 body.nav-fixed	_book/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	c
 body.nav-fixed	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	c
-book	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	o	object:formats.html.extensions
-book	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	o	object:formats.pdf.extensions
 bottom	_book/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 bottom	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:Qt.he
 bottom	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:Qt.me
@@ -12152,18 +12126,6 @@ c	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==ty
 c	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	v	function:ee.anonymousFunctionf0594d695f00
 c	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	f	function:t
 c	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	v	function:anonymousFunctionc1842a282f00
-cache	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	z	object:formats.html.execute
-cache	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	z	object:formats.pdf.execute
-callout-caution-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-callout-caution-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-callout-important-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-callout-important-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-callout-note-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-callout-note-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-callout-tip-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-callout-tip-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-callout-warning-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-callout-warning-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
 cancelAll	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	m	variable:anonymousFunctionfc36ec2a0300.R.anonymousObjectfc36ec2a3f05
 cancelAll	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	m	variable:anonymousFunctionf0594d690300.R.anonymousObjectf0594d693f05
 cancelable	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousFunctionf392eb130200.j.trigger.anonymousObjectf392eb130605
@@ -12344,32 +12306,6 @@ code span.vs	_book/site_libs/quarto-html/quarto-syntax-highlighting.css	/^code s
 code span.vs	docs/site_libs/quarto-html/quarto-syntax-highlighting.css	/^code span.vs {$/;"	c
 code span.wa	_book/site_libs/quarto-html/quarto-syntax-highlighting.css	/^code span.wa {$/;"	c
 code span.wa	docs/site_libs/quarto-html/quarto-syntax-highlighting.css	/^code span.wa {$/;"	c
-code-fold	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.render
-code-fold	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.render
-code-line	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-code-line	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-code-line-numbers	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.html.render
-code-line-numbers	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.pdf.render
-code-lines	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-code-lines	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-code-link	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.html.render
-code-link	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.pdf.render
-code-overflow	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.render
-code-overflow	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.render
-code-summary	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-code-summary	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-code-tools	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.html.render
-code-tools	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.pdf.render
-code-tools-hide-all-code	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-code-tools-hide-all-code	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-code-tools-menu-caption	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-code-tools-menu-caption	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-code-tools-show-all-code	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-code-tools-show-all-code	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-code-tools-source-code	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-code-tools-source-code	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-code-tools-view-source	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-code-tools-view-source	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
 code.sourceCode	_book/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	c
 code.sourceCode	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	c
 code.sourceCode .code-annotation-anchor	_book/site_libs/bootstrap/bootstrap.min.css	/^*\/.ansi-black-fg{color:#3e424d}.ansi-black-bg{background-color:#3e424d}.ansi-black-intense-fg{c/;"	c
@@ -12516,7 +12452,6 @@ container	docs/site_libs/clipboard/clipboard.min.js	/^!function(t,e){"object"==t
 container	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctionf0594d691ee00.A.anonymousObjectf0594d6920905.anonymousObjectf0594d6920a05
 container	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctionf0594d691ee00.C.t
 container	docs/site_libs/quarto-search/quarto-search.js	/^    container: searchEl,$/;"	p	variable:anonymousFunctione10aba620100.anonymousObjecte10aba620305
-containsRefs	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:markdown
 content	_book/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	property:A.anonymousObjecte826dc5f0f05.aria
 content	_book/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:A.anonymousObjecte826dc5f1105
 content	_book/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:A.j.anonymousObjecte826dc5f1605
@@ -12539,10 +12474,6 @@ convertToMenu	_book/site_libs/quarto-html/quarto.js	/^        const convertToMen
 convertToMenu	docs/site_libs/quarto-html/quarto.js	/^        const convertToMenu = () => {$/;"	f	function:anonymousFunctiona143dafe0400
 convertToSidebar	_book/site_libs/quarto-html/quarto.js	/^        const convertToSidebar = () => {$/;"	f	function:anonymousFunctionae48903f0400
 convertToSidebar	docs/site_libs/quarto-html/quarto.js	/^        const convertToSidebar = () => {$/;"	f	function:anonymousFunctiona143dafe0400
-copy-button-tooltip	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-copy-button-tooltip	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-copy-button-tooltip-success	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-copy-button-tooltip-success	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
 corollary	import/Clark and Washoe Counties, Chapter One, 2020 and 2022/000Main.tex	/^\\newtheorem{corollary}{Corollary}[theorem]$/;"	t
 counting-group-stuv-and-quantile-arrays-data-set-definitions-2	_book/index.html	/^<section id="counting-group-stuv-and-quantile-arrays-data-set-definitions-2" class="level2" data/;"	I
 counting-group-stuv-and-quantile-arrays-data-set-definitions-2	docs/index.html	/^<section id="counting-group-stuv-and-quantile-arrays-data-set-definitions-2" class="level2" data/;"	I
@@ -12574,42 +12505,6 @@ createSection	_book/site_libs/quarto-search/quarto-search.js	/^function createSe
 createSection	docs/site_libs/quarto-search/quarto-search.js	/^function createSection(createElement, title, text, href) {$/;"	f
 createSectionCard	_book/site_libs/quarto-search/quarto-search.js	/^function createSectionCard(createElement, section, text, href) {$/;"	f
 createSectionCard	docs/site_libs/quarto-search/quarto-search.js	/^function createSectionCard(createElement, section, text, href) {$/;"	f
-crossref-apx-prefix	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-crossref-apx-prefix	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-crossref-ch-prefix	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-crossref-ch-prefix	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-crossref-cnj-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-crossref-cnj-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-crossref-cor-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-crossref-cor-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-crossref-def-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-crossref-def-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-crossref-eq-prefix	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-crossref-eq-prefix	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-crossref-exm-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-crossref-exm-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-crossref-exr-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-crossref-exr-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-crossref-fig-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-crossref-fig-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-crossref-lem-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-crossref-lem-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-crossref-lof-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-crossref-lof-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-crossref-lol-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-crossref-lol-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-crossref-lot-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-crossref-lot-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-crossref-lst-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-crossref-lst-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-crossref-prp-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-crossref-prp-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-crossref-sec-prefix	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-crossref-sec-prefix	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-crossref-tbl-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-crossref-tbl-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-crossref-thm-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-crossref-thm-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
 ct	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f
 ct	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f
 ctx	_book/site_libs/clipboard/clipboard.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	variable:anonymousObject032b26773405
@@ -12652,10 +12547,6 @@ d	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof 
 d	docs/site_libs/quarto-nav/headroom.min.js	/^!function(t,n){"object"==typeof exports&&"undefined"!=typeof module?module.exports=n():"function/;"	f	function:anonymousFunction6507d5d30200
 d	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f	function:anonymousFunctionf0594d690300
 d	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	f	function:t
-daemon	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	z	object:formats.html.execute
-daemon	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	z	object:formats.pdf.execute
-daemon-restart	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.html.execute
-daemon-restart	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.pdf.execute
 data	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:Le.anonymousObjectf392eb136505
 data	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:Qt.pe
 data	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:Qt.ue
@@ -12706,8 +12597,6 @@ de	_book/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use 
 de	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f	class:Qt
 de	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	f
 de	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	f
-debug	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.html.execute
-debug	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.pdf.execute
 debug	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:Me.n.anonymousObjectfc36ec2a11905
 debug	_book/site_libs/quarto-search/quarto-search.js	/^    debug: false,$/;"	p	variable:anonymousFunction51d9e8c30100.anonymousObject51d9e8c30305
 debug	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:Me.n.anonymousObjectf0594d6911905
@@ -12716,8 +12605,6 @@ default	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==ty
 default	_book/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	v	class:anonymousFunction0fcd626b0300.x.U
 default	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	v	class:Qt.Ce
 default	docs/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	v	class:anonymousFunction50ddf4aa0300.x.U
-default-image-extension	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.pandoc
-default-image-extension	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.pandoc
 defaultActiveItemId	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:Me.n.anonymousObjectfc36ec2a11905
 defaultActiveItemId	_book/site_libs/quarto-search/quarto-search.js	/^    defaultActiveItemId: 0,$/;"	p	variable:anonymousFunction51d9e8c30100.anonymousObject51d9e8c30305
 defaultActiveItemId	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:Me.n.anonymousObjectf0594d6911905
@@ -12793,8 +12680,6 @@ details[show]	_book/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/
 details[show]	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 detectOverflow	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObjectf392eb13a705
 detectOverflow	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c532a705
-df-print	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.execute
-df-print	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.execute
 direction	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObjectf392eb131c05
 direction	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObjectf392eb131d05
 direction	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c5321c05
@@ -12811,8 +12696,6 @@ display	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==ty
 display	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObjectf392eb13a905
 display	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c532a805
 display	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c532a905
-display-name	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.identifier
-display-name	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.identifier
 dispose	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	m	class:anonymousFunctionf392eb130200.B
 dispose	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	m	class:anonymousFunction56b5c5320200.B
 distance	_book/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	property:anonymousFunction807397e94100.te.e.options
@@ -13119,7 +13002,6 @@ dn	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==
 dn	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f
 doc	_book/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:anonymousObjecte826dc5f6805
 doc	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:anonymousObject9f68ba3e6805
-documentclass	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.metadata
 dom	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctionfc36ec2a1ee00.C.t
 dom	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctionf0594d691ee00.C.t
 down	_book/site_libs/quarto-nav/headroom.min.js	/^!function(t,n){"object"==typeof exports&&"undefined"!=typeof module?module.exports=n():"function/;"	p	property:s.options.tolerance
@@ -13170,8 +13052,6 @@ e	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use st
 e	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	v
 e.modifiersData	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p
 e.modifiersData	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p
-echo	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.html.execute
-echo	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.pdf.execute
 ee	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f	class:Qt
 ee	_book/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	v	function:anonymousFunction0fcd626b0300.x
 ee	_book/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	f
@@ -13228,8 +13108,6 @@ en	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==
 en	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f
 enable	_book/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	f	variable:e
 enable	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	f	variable:e
-enabled	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	z	object:formats.html.execute
-enabled	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	z	object:formats.pdf.execute
 enabled	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:Le.anonymousObjectf392eb136505
 enabled	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:Qt.le
 enabled	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:Qt.pe
@@ -13280,8 +13158,6 @@ end	_book/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeof 
 end	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:Qt._e
 end	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c532a705
 end	docs/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunction50ddf4aa0300.x.se
-engine	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.execute
-engine	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.execute
 enterKeyHint	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:Ee.anonymousObjectfc36ec2aaf05
 enterKeyHint	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:Ee.anonymousObjectf0594d69af05
 enumerable	_book/site_libs/clipboard/clipboard.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	variable:anonymousObject032b26773a05
@@ -13340,14 +13216,6 @@ environment	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"o
 environment	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:ct.anonymousObjectf0594d6916905
 environment	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:ct.anonymousObjectf0594d6916c05
 environment	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:ct.anonymousObjectf0594d6916e05
-environment-proof-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-environment-proof-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-environment-remark-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-environment-remark-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-environment-solution-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-environment-solution-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-error	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.html.execute
-error	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.pdf.execute
 errors	_book/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousFunction807397e93b00.y.anonymousObject807397e93e05
 errors	_book/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousFunction807397e93b00.y.anonymousObject807397e93f05
 errors	_book/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousFunction807397e93b00.y.anonymousObject807397e94005
@@ -13358,8 +13226,6 @@ escapeRegExp	_book/site_libs/quarto-search/quarto-search.js	/^function escapeReg
 escapeRegExp	docs/site_libs/quarto-search/quarto-search.js	/^function escapeRegExp(string) {$/;"	f
 et	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f
 et	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f
-eval	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.html.execute
-eval	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.pdf.execute
 event	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:Ee.anonymousObjectfc36ec2aaf05.onChange.anonymousObjectfc36ec2ab005
 event	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:Ee.anonymousObjectfc36ec2aaf05.onKeyDown.anonymousFunctionfc36ec2ab100.anonymousObjectfc36ec2aba05
 event	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:Ee.anonymousObjectfc36ec2aaf05.onKeyDown.anonymousFunctionfc36ec2ab100.anonymousObjectfc36ec2abc05
@@ -13400,8 +13266,6 @@ eventType	_book/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"
 eventType	_book/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:anonymousObjecte826dc5fa505
 eventType	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:anonymousObject9f68ba3e4105
 eventType	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:anonymousObject9f68ba3ea505
-execute	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	o	object:formats.html
-execute	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	o	object:formats.pdf
 execute	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctionfc36ec2a1d900.anonymousFunctionfc36ec2a1de00.anonymousFunctionfc36ec2a1df00.anonymousObjectfc36ec2a1e005
 execute	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:ee.anonymousFunctionfc36ec2a5f00.c
 execute	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctionf0594d691d900.anonymousFunctionf0594d691de00.anonymousFunctionf0594d691df00.anonymousObjectf0594d691e005
@@ -13424,8 +13288,6 @@ expectedLocation	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=fun
 expectedLocation	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousFunctionc1842a283b00.y.anonymousObjectc1842a284005
 exports	_book/site_libs/clipboard/clipboard.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f	class:t
 exports	docs/site_libs/clipboard/clipboard.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f	class:t
-extensions	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	o	object:formats.html
-extensions	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	o	object:formats.pdf
 f	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f	function:anonymousFunctionf392eb130200
 f	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f	variable:anonymousObjectf392eb131b05
 f	_book/site_libs/clipboard/clipboard.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f	method:anonymousFunction032b26770200.n.686
@@ -13478,21 +13340,6 @@ fieldset	_book/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fon
 fieldset	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 fieldset:disabled .btn	_book/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	c
 fieldset:disabled .btn	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	c
-fig-align	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.render
-fig-align	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.render
-fig-dpi	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	n	object:formats.html.execute
-fig-dpi	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	n	object:formats.pdf.execute
-fig-env	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	z	object:formats.html.render
-fig-env	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	z	object:formats.pdf.render
-fig-format	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.execute
-fig-format	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.execute
-fig-height	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	n	object:formats.html.execute
-fig-height	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	n	object:formats.pdf.execute
-fig-pos	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	z	object:formats.html.render
-fig-pos	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	z	object:formats.pdf.render
-fig-responsive	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.html.metadata
-fig-width	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	n	object:formats.html.execute
-fig-width	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	n	object:formats.pdf.execute
 figcaption	_book/site_libs/bootstrap/bootstrap.min.css	/^*\/.ansi-black-fg{color:#3e424d}.ansi-black-bg{background-color:#3e424d}.ansi-black-intense-fg{c/;"	s
 figcaption	docs/site_libs/bootstrap/bootstrap.min.css	/^*\/.ansi-black-fg{color:#3e424d}.ansi-black-bg{background-color:#3e424d}.ansi-black-intense-fg{c/;"	s
 figure	_book/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
@@ -13615,12 +13462,6 @@ form	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"=
 form	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousObjectf0594d691d505
 formElement	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctionfc36ec2a23000.anonymousObjectfc36ec2a23105
 formElement	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctionf0594d6923000.anonymousObjectf0594d6923105
-format-links	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.html.render
-format-resources	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	a	object:formats.html.render
-format-resources	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	a	object:formats.pdf.render
-formats	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	o
-freeze	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.html.execute
-freeze	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.pdf.execute
 freeze	_book/site_libs/quarto-nav/headroom.min.js	/^!function(t,n){"object"==typeof exports&&"undefined"!=typeof module?module.exports=n():"function/;"	m	class:s
 freeze	docs/site_libs/quarto-nav/headroom.min.js	/^!function(t,n){"object"==typeof exports&&"undefined"!=typeof module?module.exports=n():"function/;"	m	class:s
 from	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObjectf392eb131c05
@@ -13759,7 +13600,6 @@ gpuAcceleration	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"obj
 gpuAcceleration	_book/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunction0fcd626b0300.x.ne.fn.c
 gpuAcceleration	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:Qt.ue.fn.c
 gpuAcceleration	docs/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunction50ddf4aa0300.x.ne.fn.c
-graphics	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.pdf.pandoc.variables
 h	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f	function:anonymousFunctionf392eb130200
 h	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f	method:Qt.le.fn
 h	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	v	function:We.anonymousFunctionf392eb138900
@@ -13858,7 +13698,6 @@ header.headroom--unpinned	_book/site_libs/bootstrap/bootstrap.min.css	/^ *\/@imp
 header.headroom--unpinned	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	c
 headerOffset	_book/site_libs/quarto-nav/quarto-nav.js	/^  function headerOffset() {$/;"	f	function:anonymousFunctionfc58ee010200
 headerOffset	docs/site_libs/quarto-nav/quarto-nav.js	/^  function headerOffset() {$/;"	f	function:anonymousFunction7a70b4600200
-headingText	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:markdown
 headroomChanged	_book/site_libs/quarto-nav/quarto-nav.js	/^const headroomChanged = new CustomEvent("quarto-hrChanged", {$/;"	C
 headroomChanged	docs/site_libs/quarto-nav/quarto-nav.js	/^const headroomChanged = new CustomEvent("quarto-hrChanged", {$/;"	C
 hidden	_book/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
@@ -13989,7 +13828,6 @@ href	docs/search.json	/^    "href": "index.html#what-is-the-trajectory-of-lambda
 href	docs/site_libs/quarto-search/quarto-search.js	/^                  { href: "http:\/\/www.algolia.com\/" },$/;"	p	variable:anonymousFunctione10aba620100.anonymousObjecte10aba620305.anonymousObjecte10aba621905
 href	docs/site_libs/quarto-search/quarto-search.js	/^      href: offsetURL(href),$/;"	p	variable:createDocumentCard.anonymousObjecte10aba622d05
 href	docs/site_libs/quarto-search/quarto-search.js	/^      href: offsetURL(href),$/;"	p	variable:createSection.anonymousObjecte10aba623505
-html	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	o	object:formats
 html	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObjectf392eb13cc05
 html	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObjectf392eb13ce05
 html	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctionfc36ec2a1ee00.C.anonymousFunctionfc36ec2a21300.anonymousObjectfc36ec2a22b05
@@ -14060,8 +13898,6 @@ id	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==t
 id	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:Ee.anonymousObjectf0594d69af05
 id	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:Me.n.anonymousObjectf0594d6911b05
 id	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctionf0594d691ee00.anonymousFunctionf0594d691f400.anonymousFunctionf0594d691f500.anonymousObjectf0594d691fd05
-identifier	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	o	object:formats.html
-identifier	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	o	object:formats.pdf
 idx	_book/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousObject807397e98e05
 idx	_book/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousObject807397e99505
 idx	_book/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousObject807397e99805
@@ -14126,8 +13962,6 @@ img.img-fluid.column-screen-right	_book/site_libs/bootstrap/bootstrap.min.css	/^
 img.img-fluid.column-screen-right	docs/site_libs/bootstrap/bootstrap.min.css	/^*\/.ansi-black-fg{color:#3e424d}.ansi-black-bg{background-color:#3e424d}.ansi-black-intense-fg{c/;"	c
 inHiddenRegion	_book/site_libs/quarto-html/quarto.js	/^  const inHiddenRegion = (top, bottom, hiddenRegions) => {$/;"	f	function:anonymousFunctionae48903f0400
 inHiddenRegion	docs/site_libs/quarto-html/quarto.js	/^  const inHiddenRegion = (top, bottom, hiddenRegions) => {$/;"	f	function:anonymousFunctiona143dafe0400
-include	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.html.execute
-include	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.pdf.execute
 includeMatches	_book/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	property:anonymousFunction807397e94100.te.e.options
 includeMatches	_book/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousFunction807397e93600.e.anonymousObject807397e93705
 includeMatches	_book/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousFunction807397e94100.G.n.anonymousObject807397e96405
@@ -14142,7 +13976,6 @@ includeScore	_book/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=functi
 includeScore	_book/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousObject807397e98b05
 includeScore	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousObjectc1842a281e05
 includeScore	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousObjectc1842a288b05
-index.qmd	.quarto/cites/index.json	/^{"index.qmd":[]}$/;"	a
 indexName	_book/site_libs/quarto-search/quarto-search.js	/^        indexName: indexName,$/;"	p	variable:algoliaSearch.anonymousObject51d9e8c33a05
 indexName	docs/site_libs/quarto-search/quarto-search.js	/^        indexName: indexName,$/;"	p	variable:algoliaSearch.anonymousObjecte10aba623a05
 indices	_book/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousFunction807397e94100.H.anonymousObject807397e96b05
@@ -14165,8 +13998,6 @@ initialState	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){
 initialState	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousObjectfc36ec2a22c05
 initialState	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:Me.n.anonymousObjectf0594d6911b05
 initialState	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousObjectf0594d6922c05
-inline-includes	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.html.render
-inline-includes	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.pdf.render
 inlinePositioning	_book/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:A.anonymousObjecte826dc5f1005
 inlinePositioning	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:A.anonymousObject9f68ba3e1005
 input	_book/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
@@ -14226,10 +14057,6 @@ interval	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==ty
 introduction	_book/index.html	/^<section id="introduction" class="level1" data-number="1">$/;"	I
 introduction-nevada-state-law-and-data-sources	_book/index.html	/^<section id="introduction-nevada-state-law-and-data-sources" class="level1" data-number="2">$/;"	I
 introduction-nevada-state-law-and-data-sources	docs/index.html	/^<section id="introduction-nevada-state-law-and-data-sources" class="level1" data-number="1">$/;"	I
-ipynb	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	z	object:formats.html.execute
-ipynb	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	z	object:formats.pdf.execute
-ipynb-filters	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	a	object:formats.html.execute
-ipynb-filters	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	a	object:formats.pdf.execute
 isAnimated	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObjectf392eb13b305
 isAnimated	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObjectf392eb13b405
 isAnimated	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObjectf392eb13bc05.anonymousObjectf392eb13be05
@@ -14480,16 +14307,6 @@ ke	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof 
 ke	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f
 ke	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f	class:Qt
 ke	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f
-keep-hidden	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.html.render
-keep-hidden	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.pdf.render
-keep-ipynb	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.html.execute
-keep-ipynb	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.pdf.execute
-keep-md	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.html.execute
-keep-md	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.pdf.execute
-keep-source	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.html.render
-keep-source	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.pdf.render
-keep-tex	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.html.render
-keep-tex	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.pdf.render
 key	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObjectf392eb13aa05.anonymousObjectf392eb13af05
 key	_book/site_libs/clipboard/clipboard.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	variable:anonymousFunction032b26770200.n.686.b.anonymousObject032b26771005
 key	_book/site_libs/clipboard/clipboard.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	variable:anonymousFunction032b26770200.n.686.b.anonymousObject032b26771105
@@ -14701,33 +14518,12 @@ label	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object
 label	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 label	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousObjectf0594d6918605
 label	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousObjectf0594d691d505
-lang	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.metadata
-language	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	o	object:formats.html
-language	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	o	object:formats.pdf
 lastBottom	_book/site_libs/quarto-html/quarto.js	/^  let lastBottom = 0;$/;"	v
 lastBottom	docs/site_libs/quarto-html/quarto.js	/^  let lastBottom = 0;$/;"	v
 lastQuery	_book/site_libs/quarto-search/quarto-search.js	/^let lastQuery = null;$/;"	v
 lastQuery	docs/site_libs/quarto-search/quarto-search.js	/^let lastQuery = null;$/;"	v
 later	_book/site_libs/quarto-nav/quarto-nav.js	/^      const later = function () {$/;"	f	function:anonymousFunctionfc58ee010200.throttle.anonymousFunctionfc58ee010400
 later	docs/site_libs/quarto-nav/quarto-nav.js	/^      const later = function () {$/;"	f	function:anonymousFunction7a70b4600200.throttle.anonymousFunction7a70b4600400
-latex-auto-install	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.html.render
-latex-auto-install	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.pdf.render
-latex-auto-mk	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.html.render
-latex-auto-mk	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.pdf.render
-latex-clean	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.html.render
-latex-clean	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.pdf.render
-latex-input-paths	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	a	object:formats.html.render
-latex-input-paths	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	a	object:formats.pdf.render
-latex-makeindex	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.render
-latex-makeindex	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.render
-latex-makeindex-opts	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	a	object:formats.html.render
-latex-makeindex-opts	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	a	object:formats.pdf.render
-latex-max-runs	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	n	object:formats.html.render
-latex-max-runs	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	n	object:formats.pdf.render
-latex-output-dir	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	z	object:formats.html.render
-latex-output-dir	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	z	object:formats.pdf.render
-latex-tlmgr-opts	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	a	object:formats.html.render
-latex-tlmgr-opts	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	a	object:formats.pdf.render
 layoutMarginEls	_book/site_libs/quarto-html/quarto.js	/^const layoutMarginEls = () => {$/;"	f
 layoutMarginEls	docs/site_libs/quarto-html/quarto.js	/^const layoutMarginEls = () => {$/;"	f
 le	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	v	class:Qt
@@ -14781,50 +14577,10 @@ li code:not(.sourceCode)	_book/site_libs/bootstrap/bootstrap.min.css	/^*\/.ansi-
 li code:not(.sourceCode)	docs/site_libs/bootstrap/bootstrap.min.css	/^*\/.ansi-black-fg{color:#3e424d}.ansi-black-bg{background-color:#3e424d}.ansi-black-intense-fg{c/;"	c
 limit	_book/site_libs/quarto-search/quarto-search.js	/^                limit: limit,$/;"	p	variable:anonymousFunction51d9e8c30100.anonymousObject51d9e8c30305.fuseSearchOptions
 limit	docs/site_libs/quarto-search/quarto-search.js	/^                limit: limit,$/;"	p	variable:anonymousFunctione10aba620100.anonymousObjecte10aba620305.fuseSearchOptions
-link-external-icon	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.html.render
-link-external-icon	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.pdf.render
-link-external-newwindow	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.html.render
-link-external-newwindow	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.pdf.render
 list	_book/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 list	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousObjectfc36ec2a1d505
 list	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 list	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousObjectf0594d691d505
-listing-page-category-all	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-listing-page-category-all	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-listing-page-field-author	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-listing-page-field-author	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-listing-page-field-categories	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-listing-page-field-categories	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-listing-page-field-date	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-listing-page-field-date	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-listing-page-field-description	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-listing-page-field-description	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-listing-page-field-filemodified	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-listing-page-field-filemodified	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-listing-page-field-filename	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-listing-page-field-filename	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-listing-page-field-readingtime	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-listing-page-field-readingtime	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-listing-page-field-subtitle	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-listing-page-field-subtitle	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-listing-page-field-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-listing-page-field-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-listing-page-minutes-compact	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-listing-page-minutes-compact	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-listing-page-no-matches	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-listing-page-no-matches	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-listing-page-order-by	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-listing-page-order-by	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-listing-page-order-by-date-asc	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-listing-page-order-by-date-asc	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-listing-page-order-by-date-desc	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-listing-page-order-by-date-desc	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-listing-page-order-by-default	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-listing-page-order-by-default	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-listing-page-order-by-number-asc	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-listing-page-order-by-number-asc	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-listing-page-order-by-number-desc	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-listing-page-order-by-number-desc	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
 loadingIndicator	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousObjectfc36ec2a18605
 loadingIndicator	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousObjectfc36ec2a1d505
 loadingIndicator	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousObjectf0594d6918605
@@ -14902,8 +14658,6 @@ mark	_book/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.g
 mark	_book/site_libs/bootstrap/bootstrap.min.css	/^*\/.ansi-black-fg{color:#3e424d}.ansi-black-bg{background-color:#3e424d}.ansi-black-intense-fg{c/;"	s
 mark	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 mark	docs/site_libs/bootstrap/bootstrap.min.css	/^*\/.ansi-black-fg{color:#3e424d}.ansi-black-bg{background-color:#3e424d}.ansi-black-intense-fg{c/;"	s
-markdown	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	o
-markdown	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:markdown
 matches	_book/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousObject807397e98e05
 matches	_book/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousObject807397e99505
 matches	_book/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousObject807397e99805
@@ -14924,10 +14678,6 @@ me	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof e
 me	docs/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f	function:anonymousFunction50ddf4aa0300.x.ce
 me	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	f
 me	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f
-merge-includes	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.html.render
-merge-includes	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.pdf.render
-metadata	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	o	object:formats.html
-metadata	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	o	object:formats.pdf
 metadata	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousObjectfc36ec2a14705
 metadata	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousObjectf0594d6914705
 method	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObjectf392eb13fa05
@@ -14972,7 +14722,6 @@ mouseover	_book/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"
 mouseover	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:anonymousObject9f68ba3e5d05
 moveTransition	_book/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:A.anonymousObjecte826dc5f0f05
 moveTransition	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:A.anonymousObject9f68ba3e0f05
-multiFile	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.html.extensions.book
 n	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f	class:anonymousFunctionf392eb130200.N
 n	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f	function:anonymousFunctionf392eb130200
 n	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f	variable:anonymousObjectf392eb131b05
@@ -15211,7 +14960,6 @@ notTop	_book/site_libs/quarto-nav/headroom.min.js	/^!function(t,n){"object"==typ
 notTop	_book/site_libs/quarto-nav/headroom.min.js	/^!function(t,n){"object"==typeof exports&&"undefined"!=typeof module?module.exports=n():"function/;"	p	property:s.options.classes
 notTop	docs/site_libs/quarto-nav/headroom.min.js	/^!function(t,n){"object"==typeof exports&&"undefined"!=typeof module?module.exports=n():"function/;"	m	class:s
 notTop	docs/site_libs/quarto-nav/headroom.min.js	/^!function(t,n){"object"==typeof exports&&"undefined"!=typeof module?module.exports=n():"function/;"	p	property:s.options.classes
-notebook-links	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.html.render
 nt	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f
 nt	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f
 null	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	M	variable:
@@ -15556,16 +15304,8 @@ ordinal-percentage-and-quantile-functions-of-an-stuv-array	_book/index.html	/^<s
 ordinal-percentage-and-quantile-functions-of-an-stuv-array	docs/index.html	/^<section id="ordinal-percentage-and-quantile-functions-of-an-stuv-array" class="level2" data-num/;"	I
 ot	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f
 ot	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f
-output	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.html.execute
-output	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.pdf.execute
 output	_book/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 output	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
-output-divs	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.html.render
-output-divs	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.pdf.render
-output-ext	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.render
-output-ext	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.render
-output-file	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.pandoc
-output-file	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.pandoc
 p	_book/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 p	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	property:anonymousObjectf392eb13ce05.allowList
 p	_book/site_libs/clipboard/clipboard.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f	method:anonymousFunction032b26770200.n.686
@@ -15612,8 +15352,6 @@ padding	docs/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==type
 padding	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	property:anonymousObject9f68ba3e4f05.options
 padding	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	property:me.be.Ce.anonymousObject9f68ba3e4a05.options
 padding	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	property:me.be.Ce.anonymousObject9f68ba3e4b05.options
-pandoc	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	o	object:formats.html
-pandoc	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	o	object:formats.pdf
 panel	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousObjectfc36ec2a18605
 panel	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousObjectfc36ec2a1d505
 panel	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousObjectf0594d6918605
@@ -15658,8 +15396,6 @@ pause	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeo
 pause	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c5321905
 payload	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctionfc36ec2a0300.R.anonymousFunctionfc36ec2a3900.anonymousObjectfc36ec2a3d05
 payload	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctionf0594d690300.R.anonymousFunctionf0594d693900.anonymousObjectf0594d693d05
-pdf	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	o	object:formats
-pdf-engine	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.pandoc
 pe	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	v	class:Qt
 pe	_book/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	f
 pe	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	v	class:Qt
@@ -15910,10 +15646,6 @@ pre>code.sourceCode	_book/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"ht
 pre>code.sourceCode	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	c
 pre>code.sourceCode>span>a:first-child::before	_book/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	c
 pre>code.sourceCode>span>a:first-child::before	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	c
-prefer-html	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.html.render
-prefer-html	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.pdf.render
-preserve-yaml	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.html.render
-preserve-yaml	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.pdf.render
 prevSiblingIsActiveLink	_book/site_libs/quarto-html/quarto.js	/^  const prevSiblingIsActiveLink = (el) => {$/;"	f	function:anonymousFunctionae48903f0400
 prevSiblingIsActiveLink	docs/site_libs/quarto-html/quarto.js	/^  const prevSiblingIsActiveLink = (el) => {$/;"	f	function:anonymousFunctiona143dafe0400
 prevState	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctionfc36ec2a0300.R.anonymousFunctionfc36ec2a3900.anonymousObjectfc36ec2a3e05
@@ -15924,7 +15656,6 @@ preventOverflow	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"obj
 preventOverflow	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c532a705
 progress	_book/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 progress	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
-projectFormats	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	a
 propGetters	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctionfc36ec2a1ee00.C.t
 propGetters	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctionfc36ec2a1ee00.anonymousFunctionfc36ec2a20700.anonymousObjectfc36ec2a20805
 propGetters	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctionf0594d691ee00.C.t
@@ -16011,7 +15742,6 @@ quarto-sidebar-glass	_book/index.html	/^<div id="quarto-sidebar-glass" data-bs-t
 quarto-sidebar-glass	docs/index.html	/^<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto/;"	I
 quarto-text-highlighting-styles	_book/index.html	/^<link href="site_libs\/quarto-html\/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-/;"	I
 quarto-text-highlighting-styles	docs/index.html	/^<link href="site_libs\/quarto-html\/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-/;"	I
-quarto-version	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.metadata
 quartoOpenSearch	_book/site_libs/quarto-search/quarto-search.js	/^  window.quartoOpenSearch = () => {$/;"	f	variable:window
 quartoOpenSearch	docs/site_libs/quarto-search/quarto-search.js	/^  window.quartoOpenSearch = () => {$/;"	f	variable:window
 quartoToggleHeadroom	_book/site_libs/quarto-nav/quarto-nav.js	/^    window.quartoToggleHeadroom = function () {$/;"	f	variable:window
@@ -16194,10 +15924,6 @@ refresh	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"objec
 refresh	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:fe.anonymousObjectf0594d698105
 refresh	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:u.anonymousObjectf0594d6913e05
 refs	_book/index.html	/^<div id="refs" class="references csl-bib-body hanging-indent" role="list">$/;"	I
-related-formats-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-related-formats-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-related-notebooks-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-related-notebooks-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
 relatedTarget	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObjectf392eb1310305
 relatedTarget	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObjectf392eb1310405
 relatedTarget	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObjectf392eb1310505
@@ -16236,8 +15962,6 @@ removeClass	_book/site_libs/quarto-nav/headroom.min.js	/^!function(t,n){"object"
 removeClass	docs/site_libs/quarto-nav/headroom.min.js	/^!function(t,n){"object"==typeof exports&&"undefined"!=typeof module?module.exports=n():"function/;"	m	class:s
 removeDataAttribute	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	m	variable:anonymousObjectf392eb131505
 removeDataAttribute	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	m	variable:anonymousObject56b5c5321505
-render	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	o	object:formats.html
-render	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	o	object:formats.pdf
 render	_book/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:A.anonymousObjecte826dc5f0f05
 render	_book/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:anonymousObjecte826dc5f8205
 render	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	m	variable:anonymousObjectfc36ec2a1d705
@@ -16248,12 +15972,6 @@ renderItem	_book/site_libs/quarto-search/quarto-search.js	/^function renderItem(
 renderItem	docs/site_libs/quarto-search/quarto-search.js	/^function renderItem($/;"	f
 renderer	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctionfc36ec2a1ee00.C.t
 renderer	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctionf0594d691ee00.C.t
-repo-action-links-edit	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-repo-action-links-edit	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-repo-action-links-issue	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-repo-action-links-issue	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-repo-action-links-source	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-repo-action-links-source	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
 requesterId	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctionfc36ec2a1d900.anonymousFunctionfc36ec2a1de00.anonymousFunctionfc36ec2a1df00.anonymousObjectfc36ec2a1e005
 requesterId	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:ee.anonymousFunctionfc36ec2a5f00.c
 requesterId	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctionf0594d691d900.anonymousFunctionf0594d691de00.anonymousFunctionf0594d691df00.anonymousObjectf0594d691e005
@@ -16454,26 +16172,6 @@ se	docs/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeof ex
 se	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	f
 search	_book/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 search	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
-search-clear-button-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-search-clear-button-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-search-copy-link-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-search-copy-link-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-search-detached-cancel-button-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-search-detached-cancel-button-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-search-hide-matches-text	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-search-hide-matches-text	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-search-label	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-search-label	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-search-matching-documents-text	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-search-matching-documents-text	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-search-more-match-text	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-search-more-match-text	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-search-more-matches-text	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-search-more-matches-text	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-search-no-results-text	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-search-no-results-text	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-search-submit-button-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-search-submit-button-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
 searchClient	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctionfc36ec2a1d900.n.anonymousObjectfc36ec2a1da05
 searchClient	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:ee.anonymousFunctionfc36ec2a5f00.c
 searchClient	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:ee.anonymousFunctionfc36ec2a6100.anonymousObjectfc36ec2a6205
@@ -16552,20 +16250,6 @@ section	docs/search.json	/^    "section": "2.6 Counting Group; S,T,U,V and Quant
 section	docs/search.json	/^    "section": "2.7 Ordinal, Percentage and Quantile Functions of an STUV Array",$/;"	s	object:16
 section	docs/search.json	/^    "section": "2.8 Convergence, Constraint and Irrelevance Lemmas",$/;"	s	object:17
 section	docs/search.json	/^    "section": "2.9 The Hyperbolic Reflection Theorem",$/;"	s	object:18
-section-title-abstract	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-section-title-abstract	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-section-title-appendices	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-section-title-appendices	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-section-title-citation	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-section-title-citation	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-section-title-copyright	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-section-title-copyright	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-section-title-footnotes	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-section-title-footnotes	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-section-title-references	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-section-title-references	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-section-title-reuse	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-section-title-reuse	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
 sectionChanged	_book/site_libs/quarto-html/quarto.js	/^const sectionChanged = new CustomEvent("quarto-sectionChanged", {$/;"	C
 sectionChanged	docs/site_libs/quarto-html/quarto.js	/^const sectionChanged = new CustomEvent("quarto-sectionChanged", {$/;"	C
 sections	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctionfc36ec2a1ee00.C.anonymousFunctionfc36ec2a21300.anonymousObjectfc36ec2a22905
@@ -16588,9 +16272,6 @@ selectors	_book/site_libs/quarto-html/quarto.js	/^    const selectors = selector
 selectors	docs/site_libs/quarto-html/quarto.js	/^    const selectors = selectorsToSync[group];$/;"	C
 selectorsToSync	_book/site_libs/quarto-html/quarto.js	/^  const selectorsToSync = setupSelectorSync();$/;"	C
 selectorsToSync	docs/site_libs/quarto-html/quarto.js	/^  const selectorsToSync = setupSelectorSync();$/;"	C
-self-contained-math	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.html.render
-self-contained-math	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.pdf.render
-selfContainedOutput	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.pdf.extensions.book
 set	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	m	variable:anonymousFunctionf392eb130200.H
 set	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	m	variable:anonymousFunction56b5c5320200.H
 setActiveItemId	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunctionfc36ec2a1ee00.S
@@ -16693,8 +16374,6 @@ source	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object
 source	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousObjectf0594d69c205
 source	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousObjectf0594d69ca05
 source	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousObjectf0594d69cf05
-source-notebooks-prefix	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-source-notebooks-prefix	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
 sourceFooter	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousObjectfc36ec2a1d505
 sourceFooter	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousObjectf0594d691d505
 sourceHeader	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousObjectfc36ec2a1d505
@@ -16713,13 +16392,10 @@ spellCheck	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"o
 spellCheck	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:Ee.anonymousObjectf0594d69af05
 src	_book/site_libs/quarto-search/quarto-search.js	/^                  src: offsetURL($/;"	p	variable:anonymousFunction51d9e8c30100.anonymousObject51d9e8c30305.anonymousObject51d9e8c31805
 src	docs/site_libs/quarto-search/quarto-search.js	/^                  src: offsetURL($/;"	p	variable:anonymousFunctione10aba620100.anonymousObjecte10aba620305.anonymousObjecte10aba621805
-srcMarkdownNoYaml	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:markdown
 st	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	v	class:At
 st	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	v	class:At
 stallThreshold	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:Me.n.anonymousObjectfc36ec2a11905
 stallThreshold	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:Me.n.anonymousObjectf0594d6911905
-standalone	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.html.pandoc
-standalone	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.pdf.pandoc
 start	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:Qt._e
 start	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObjectf392eb13a705
 start	_book/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunction0fcd626b0300.x.se
@@ -16992,7 +16668,6 @@ table.quarto-listing-table th a.desc:after	_book/site_libs/bootstrap/bootstrap.m
 table.quarto-listing-table th a.desc:after	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	c
 table.quarto-listing-table.table-hover td	_book/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 table.quarto-listing-table.table-hover td	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
-tables	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.pdf.pandoc.variables
 tabulation-array-data-set-definitions-1	_book/index.html	/^<section id="tabulation-array-data-set-definitions-1" class="level2" data-number="3.5">$/;"	I
 tabulation-array-data-set-definitions-1	docs/index.html	/^<section id="tabulation-array-data-set-definitions-1" class="level2" data-number="2.5">$/;"	I
 target	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	function:anonymousFunctionf392eb130200.a
@@ -17009,10 +16684,6 @@ target	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==type
 target	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c532fb05
 target	docs/site_libs/clipboard/clipboard.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	variable:anonymousFunction664e00960200.n.686.b.anonymousObject664e00961705.value.anonymousObject664e00961805
 target	docs/site_libs/quarto-search/quarto-search.js	/^                    target,$/;"	M	variable:
-target-format	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.identifier
-target-format	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.identifier
-tbl-colwidths	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.pdf.render
-tbl-colwidths	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.render
 tbody	_book/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 tbody	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 td	_book/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
@@ -17090,7 +16761,7 @@ text	docs/search.json	/^    "text": "2.16 2004 General Election of Bush vs Kerry
 text	docs/search.json	/^    "text": "2.17 The Fair Election of 2008, Obama vs McCain, M Parallel to N\\nHere is the link/;"	s	object:26
 text	docs/search.json	/^    "text": "2.18 The Fair Election of 2012, Obama vs Romney, X=Y and M=N\\nHere is the link to /;"	s	object:27
 text	docs/search.json	/^    "text": "2.19 The Fair Election of 2016, Trump vs Hillary, X=Y and M=N\\nHere is the link to/;"	s	object:28
-text	docs/search.json	/^    "text": "2.2 The Twenty Laws and Forty Isometries\\n\\n\\n\\n\\n|l|l|l|l| Law Number & North/;"	s	object:11
+text	docs/search.json	/^    "text": "2.2 The Twenty Laws and Forty Isometries\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\/;"	s	object:11
 text	docs/search.json	/^    "text": "2.20 Brief Introduction to Complex Number Percentages and Manifolds for Two Simulta/;"	s	object:29
 text	docs/search.json	/^    "text": "2.21 The G,H,Alpha Complex Number Manifold That Rigged Trump\/Amodei vs Biden\/Acke/;"	s	object:30
 text	docs/search.json	/^    "text": "2.22 Brief Introduction to Quaternionic Percentages and Manifolds for Four Simultan/;"	s	object:31
@@ -17155,7 +16826,6 @@ the-two-common-sense-assumptions	_book/index.html	/^<section id="the-two-common-
 the-two-common-sense-assumptions	docs/index.html	/^<section id="the-two-common-sense-assumptions" class="level2" data-number="2.10">$/;"	I
 thead	_book/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
 thead	docs/site_libs/bootstrap/bootstrap.min.css	/^ *\/@import"https:\/\/fonts.googleapis.com\/css2?family=Source+Sans+Pro:wght@300;400;700&display/;"	s
-theme	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.metadata
 theme	_book/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:A.anonymousObjecte826dc5f1105
 theme	docs/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	p	variable:A.anonymousObject9f68ba3e1105
 theorem	import/Clark and Washoe Counties, Chapter One, 2020 and 2022/000Main.tex	/^\\newtheorem{theorem}{Theorem}[section]$/;"	t
@@ -17175,10 +16845,6 @@ throttle	docs/site_libs/quarto-html/quarto.js	/^function throttle(func, wait) {$
 throttle	docs/site_libs/quarto-nav/quarto-nav.js	/^  function throttle(func, wait) {$/;"	f	function:anonymousFunction7a70b4600200
 throw	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	M	variable:
 throw	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	M	variable:
-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s
-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.metadata
-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.metadata
-title	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:markdown.yaml
 title	_book/search.json	/^    "title": "Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Neva/;"	s	object:0
 title	_book/search.json	/^    "title": "Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Neva/;"	s	object:1
 title	_book/search.json	/^    "title": "Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Neva/;"	s	object:10
@@ -17249,20 +16915,8 @@ title	docs/search.json	/^    "title": "Analysis of the 2020 and 2022 General Ele
 title	docs/search.json	/^    "title": "Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Neva/;"	s	object:9
 title	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c532cc05
 title	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c532ce05
-title-block-affiliation-plural	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-title-block-affiliation-plural	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-title-block-affiliation-single	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-title-block-affiliation-single	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-title-block-author-plural	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-title-block-author-plural	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-title-block-author-single	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-title-block-author-single	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
 title-block-header	_book/index.html	/^<header id="title-block-header" class="quarto-title-block default">$/;"	I
 title-block-header	docs/index.html	/^<header id="title-block-header" class="quarto-title-block default">$/;"	I
-title-block-modified	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-title-block-modified	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-title-block-published	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-title-block-published	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
 titleSelector	_book/site_libs/quarto-html/quarto.js	/^      titleSelector: "#toc-title",$/;"	p	variable:anonymousFunctionae48903f0400.anonymousObjectae48903f0905
 titleSelector	_book/site_libs/quarto-html/quarto.js	/^    titleSelector: "#toc-title",$/;"	p	variable:anonymousFunctionae48903f0400.anonymousObjectae48903f0705
 titleSelector	_book/site_libs/quarto-html/quarto.js	/^    titleSelector: ".title",$/;"	p	variable:anonymousFunctionae48903f0400.anonymousObjectae48903f0805
@@ -17271,8 +16925,6 @@ titleSelector	docs/site_libs/quarto-html/quarto.js	/^    titleSelector: "#toc-ti
 titleSelector	docs/site_libs/quarto-html/quarto.js	/^    titleSelector: ".title",$/;"	p	variable:anonymousFunctiona143dafe0400.anonymousObjecta143dafe0805
 tn	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f
 tn	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f
-to	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.pandoc
-to	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.pandoc
 to	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObjectf392eb131c05
 to	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObjectf392eb131d05
 to	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c5321c05
@@ -17346,10 +16998,6 @@ toc-the-two-common-sense-assumptions	_book/index.html	/^  <li><a href="#the-two-
 toc-the-two-common-sense-assumptions	docs/index.html	/^  <li><a href="#the-two-common-sense-assumptions" id="toc-the-two-common-sense-assumptions" clas/;"	I
 toc-title	_book/index.html	/^    <h2 id="toc-title">Table of contents<\/h2>$/;"	I
 toc-title	docs/index.html	/^    <h2 id="toc-title">Table of contents<\/h2>$/;"	I
-toc-title-document	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-toc-title-document	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-toc-title-website	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-toc-title-website	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
 toc-votes-are-computed-by-law-not-counted	_book/index.html	/^  <li><a href="#votes-are-computed-by-law-not-counted" id="toc-votes-are-computed-by-law-not-cou/;"	I
 toc-votes-are-computed-by-law-not-counted	docs/index.html	/^  <li><a href="#votes-are-computed-by-law-not-counted" id="toc-votes-are-computed-by-law-not-cou/;"	I
 toc-washoe-county-2020-and-2022-tabulation-sources	_book/index.html	/^  <li><a href="#washoe-county-2020-and-2022-tabulation-sources" id="toc-washoe-county-2020-and-2/;"	I
@@ -17364,16 +17012,6 @@ toggle	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==type
 toggle	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c5322105
 toggle	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c5322305
 toggle	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c5322e05
-toggle-dark-mode	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-toggle-dark-mode	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-toggle-navigation	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-toggle-navigation	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-toggle-reader-mode	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-toggle-reader-mode	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-toggle-section	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-toggle-section	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
-toggle-sidebar	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.language
-toggle-sidebar	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.pdf.language
 toggleAll	_book/site_libs/quarto-html/quarto.js	/^  function toggleAll(selectedGroup, selectorsToSync) {$/;"	f
 toggleAll	docs/site_libs/quarto-html/quarto.js	/^  function toggleAll(selectedGroup, selectorsToSync) {$/;"	f
 toggleExpanded	_book/site_libs/quarto-search/quarto-search.js	/^function toggleExpanded(item, state, setContext, setActiveItemId, refresh) {$/;"	f
@@ -17778,7 +17416,6 @@ value	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"us
 value	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	p	variable:anonymousObjectc1842a28a205
 valueOf	_book/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	m	class:Boolean
 valueOf	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	m	class:Boolean
-variables	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	o	object:formats.pdf.pandoc
 variation	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:Qt.ue.fn.c
 variation	_book/site_libs/quarto-html/popper.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	p	variable:anonymousFunction0fcd626b0300.x.ne.fn.c
 variation	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:Qt.ue.fn.c
@@ -17825,8 +17462,6 @@ w	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==ty
 w	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	f	function:t.k
 walk	_book/site_libs/quarto-html/quarto.js	/^  const walk = (el, depth) => {$/;"	f	function:anonymousFunctionae48903f0400
 walk	docs/site_libs/quarto-html/quarto.js	/^  const walk = (el, depth) => {$/;"	f	function:anonymousFunctiona143dafe0400
-warning	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.html.execute
-warning	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	b	object:formats.pdf.execute
 washoe-county-2020-and-2022-tabulation-sources	_book/index.html	/^<section id="washoe-county-2020-and-2022-tabulation-sources" class="level2" data-number="2.9">$/;"	I
 washoe-county-2020-and-2022-tabulation-sources	docs/index.html	/^<section id="washoe-county-2020-and-2022-tabulation-sources" class="level2" data-number="1.9">$/;"	I
 we	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f	class:Qt
@@ -17845,7 +17480,6 @@ what-is-the-trajectory-of-lambda-in-fair-election-no-basis-for-democrats-preferr
 what-is-the-trajectory-of-lambda-in-fair-election-no-basis-for-democrats-preferring-to-vote-by-mail	docs/index.html	/^<section id="what-is-the-trajectory-of-lambda-in-fair-election-no-basis-for-democrats-preferring/;"	I
 wn	_book/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f
 wn	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeo/;"	f
-wrap	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	s	object:formats.html.pandoc
 wrap	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObjectf392eb131805
 wrap	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObjectf392eb131905
 wrap	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	p	variable:anonymousObject56b5c5321805
@@ -17980,7 +17614,6 @@ y	docs/site_libs/quarto-search/autocomplete.umd.js	/^!function(e,t){"object"==ty
 y	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	f	function:anonymousFunctionc1842a283b00
 y	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	f	function:t
 y	docs/site_libs/quarto-search/fuse.min.js	/^var e,t;e=this,t=function(){"use strict";function e(e,t){var n=Object.keys(e);if(Object.getOwnPr/;"	v	method:anonymousFunctionc1842a283600.anonymousObjectc1842a283a05.value
-yaml	.quarto/idx/index.qmd.json	/^{"title":"Analysis of the 2020 and 2022 General Elections of Clark and Washoe Counties, Nevada",/;"	o	object:markdown
 ye	_book/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f	class:Qt
 ye	_book/site_libs/quarto-html/tippy.umd.min.js	/^!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@p/;"	f	function:me.be
 ye	docs/site_libs/bootstrap/bootstrap.min.js	/^!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function/;"	f	class:Qt
